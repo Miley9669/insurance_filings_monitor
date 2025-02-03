@@ -1,0 +1,8 @@
+# Example .gitignore
+.DS_Store
+node_modules/
+.env
+*.log
+.ipynb_checkpoints
+Filings/
+api_key.txt
