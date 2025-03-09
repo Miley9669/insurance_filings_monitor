@@ -1,0 +1,1216 @@
+{
+    "AL_ALSE-134300517": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            11110
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "AL_LBPM-134436753": {
+        "objections": {},
+        "group_code": 111,
+        "company_codes": [
+            23043,
+            18333
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "AR_TRVD-G134425501": {
+        "objections": {},
+        "group_code": 3548,
+        "company_codes": [
+            19062,
+            19070,
+            27998,
+            25666,
+            36137,
+            38130
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "AZ_TRVD-134038097": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "12/19/2024",
+                "objection1": "Objection 1\n          Comments: Elaborate on what, if any, statistical tests other than Lift Charts, Actual vs Expected charts, and Lorenz curves\nwere used in model validation. [PC9999]",
+                "objection2": "Objection 2\n          Comments: A closed-form solution for the log-likelihood is not necessary (c.f. pages 140ff of Generalized Additive Models by\nHastie and Tibshirani) for the calculation of model statistics. Provide a summary table of model output for each model with the\nfollowing columns:\n- Variable Name\n- Variable Level (with the base level highlighted)\n- Beta coefficient\n- P-value\n- Lower Bound of 95% Confidence Interval\n- Upper Bound of 95% Confidence Interval\n[PC9999]",
+                "objection3": "Objection 3\n          Comments: A closed-form solution for the log-likelihood is not necessary (c.f. pages 140ff of Generalized Additive Models by\nHastie and Tibshirani) for the calculation of model\nstatistics. Provide commentary on why each variable with a p-value > .05 was kept in the model, if applicable. [PC9999]",
+                "objection4": "Objection 4\n          Comments: A closed-form solution for the log-likelihood is not necessary (c.f. pages 140ff of Generalized Additive Models by\nHastie and Tibshirani) for the calculation of model statistics. Provide null deviance and residual deviance metrics.  [PC9999]",
+                "objection5": "Objection 5\n          Comments: A closed-form solution for the log-likelihood is not necessary (c.f. pages 140ff of Generalized Additive Models by\nHastie and Tibshirani) for the calculation of model statistics. Provide FF nested model tests comparing the full model to subset\nmodels excluding one variable at a time to demonstrate the significance of each term. F-nested model tests include the F-statistic\nbased on the removal of one variable and corresponding F-test critical values, which come from the F table. The numerator degrees\nof freedom should be equal to the number of added parameters in the larger model and the denominator degrees of freedom should\nbe equal to the number of records in the dataset minus the number of parameters in the larger model. FF nested model tests are\ndescribed in section 6.2.1 of Generalized Linear Models for Insurance Rating. (https://www.casact.org/sites/default/files/2021-\n03/8_GLM.pdf). [PC9999]\nSERFF Tracking #: TRVD-134038097\nState Tracking #: TRVD-134038097 -GLM\nCompany Tracking #: 2024-03-0073\nState:\nArizona\nFirst Filing Company:\nThe Travelers Home and Marine Insurance\nCompany , ...\nTOI/Sub-TOI:\n04.0 Homeowners/04.0000 Homeowners Sub-TOI Combinations\nProduct Name:\nTIS 1.0\nProject Name/Number: 63849/2024-03-0073\nPDF Pipeline for SERFF Tracking Number TRVD-134038097 Generated 03/02/2025 11:57 PM",
+                "objection6": "Objection 6\n          Comments: A closed-form solution for the log-likelihood is not necessary (c.f. pages 140ff of Generalized Additive Models by\nHastie and Tibshirani) for the calculation of model statistics. Provide a table showing AIC after the exclusion of each predictor\nvariable from the full model. [PC9999]"
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "06/21/2024",
+                "objection1": "Objection 1\n          Comments: Explain the discrepancy in the following statements. The response should clarify whether this is a brand-new\nmodel and explain what the company means by this version.\n- The TIS1 model is not a re-fresh or re-build of a previously filed model\n- This version of TIS 1 is currently being used in Indiana, with SERFF tracking number 2021 - TRVD-132992312\n[PC9999]",
+                "objection2": "Objection 2\n          Comments: Provide the name, credentials, and experience of each member of the current modeling team. [PC9999]",
+                "objection3": "Objection 3\n          Comments: Provide how you reviewed the model for compliance with ASOP 56 (Modeling). [PC9999]",
+                "objection4": "Objection 4\n          Comments: Provide an explanation of the following apparent discrepancy and clearly state the time frame of the modeling data\nset (2000-2005 or 2006-2012):\n- In answer to the Predictive Modeling Checklist: 1) Model Development. f. Provide a description of the training, testing, and validation\ndata used, the company\nstates, The original Travelers Insurance Score was built using a combined split of 60% auto and 40% home data. This data set time\nframe contained policy years\nfrom 2000-2005 [emphasis added] \n- In response to the question in the Predictive Modeling Checklist: 2) DATA - Provide the scope of the data: years, number of\nrecords/claims, companies, geographies (zip code, census block), nationwide or Arizona specific data. If nationwide data was used,\nprovide the percentage distribution of each state used in the dataset, the company states, Countrywide data for calendar years 2006-\n2012 [emphasis added] was used in this analysis. This analysis was based on Travelers internal data as well as property\ncharacteristic data from external sources. Internal data was extracted from the Travelers Data Warehouse.\n[PC9999]",
+                "objection5": "Objection 5\n          Comments: Explain why data more than 12 years (if 2006-2012) or 19 years (if 2000-2005) was used. [PC9999]\nSERFF Tracking #: TRVD-134038097\nState Tracking #: TRVD-134038097 -GLM\nCompany Tracking #: 2024-03-0073\nState:\nArizona\nFirst Filing Company:\nThe Travelers Home and Marine Insurance\nCompany , ...\nTOI/Sub-TOI:\n04.0 Homeowners/04.0000 Homeowners Sub-TOI Combinations\nProduct Name:\nTIS 1.0\nProject Name/Number: 63849/2024-03-0073\nPDF Pipeline for SERFF Tracking Number TRVD-134038097 Generated 03/02/2025 11:57 PM",
+                "objection6": "Objection 6\n          Comments: Provide lift charts on more recent data. [PC9999]",
+                "objection7": "Objection 7\n          Comments: Provide why Claim Count is the response variable in the data dictionary given that The goal of the model is to\npredict the loss cost (pure premium) and Pure_Premium is Target or Response Variable [PC9999]",
+                "objection8": "Objection 8\n          Comments: Provide support for their claim that not removing extreme losses [does not] negatively impact model stability.\n[PC9999]",
+                "objection9": "Objection 9\n          Comments: Please advise how long the company intends to maintain the data set for? ( IE for a minimum of 7 years) [PC9999]",
+                "objection10": "Objection 10\n          Comments: Provide summary metrics for the training and test datasets by year and by line of business with the following\ninformation:\n- Year\n- Line of business\n- Losses\n- Exposures\n[PC9999]",
+                "objection11": "Objection 11\n          Comments: Comment on how the company tested the model to be appropriate for use in the state of Arizona.  [PC9999]",
+                "objection12": "Objection 12\n          Comments: Provide a lift chart on state specific data to demonstrate that the countrywide model fits the state well. [PC9999]",
+                "objection13": "Objection 13\n          Comments: Identify any input variables which were transformed. Identify the variables, describe the transformation, and\nprovide an example of the original unadjusted value and the transformed values. [PC9999]",
+                "objection14": "Objection 14\n          Comments: Identify all instances where categorical values were grouped together in the model and describe the reason why\nthey were grouped. [PC9999]",
+                "objection15": "Objection 15\n          Comments: Identify all instances where numeric values were binned into ranges and describe how the cut points of the ranges\nwere determined. [PC9999]",
+                "objection16": "Objection 16\n          Comments: Provide the value of the parameter p in Tweedie distribution. [PC9999]",
+                "objection17": "Objection 17\n          Comments: Define nuisance variables. [PC9999]",
+                "objection18": "Objection 18\n          Comments: Explain fully the offset variable mean_offset, which is described as Auto policy class plan mean offset. [PC9999]\nSERFF Tracking #: TRVD-134038097\nState Tracking #: TRVD-134038097 -GLM\nCompany Tracking #: 2024-03-0073\nState:\nArizona\nFirst Filing Company:\nThe Travelers Home and Marine Insurance\nCompany , ...\nTOI/Sub-TOI:\n04.0 Homeowners/04.0000 Homeowners Sub-TOI Combinations\nProduct Name:\nTIS 1.0\nProject Name/Number: 63849/2024-03-0073\nPDF Pipeline for SERFF Tracking Number TRVD-134038097 Generated 03/02/2025 11:57 PM",
+                "objection19": "Objection 19\n          Comments: Provide how the ranges of scores are determined. [PC9999]",
+                "objection20": "Objection 20\n          Comments: Identify the instances where there are deviations from indicated and provide tables showing indicated and selected\nfactors side-by-side. [PC9999]",
+                "objection21": "Objection 21\n          Comments: Provide Actual vs. Expected plots for each predictor variable structured as follows:\n- Level of the variable\n- Numerator of the target variable (Losses)\n- Denominator of the target variable (Exposures)\n- Predicted target variable (Predicted numerator metric divided by actual denominator metric)\n- Actual target variable (Actual numerator metric divided by actual denominator metric)\n- Average Score\n[PC9999]",
+                "objection22": "Objection 22\n          Comments: Provide a summary table of model output for each model with the following columns:\n- Variable Name\n- Variable Level (with the base level highlighted)\n- Beta coefficient\n- P-value\n- Lower Bound of 95% Confidence Interval\n- Upper Bound of 95% Confidence Interval\n[PC9999]",
+                "objection23": "Objection 23\n          Comments: Provide commentary on why each variable with a p-value > .05 was kept in the model, if applicable. [PC9999]",
+                "objection24": "Objection 24\n          Comments: Provide null deviance and residual deviance metrics. [PC9999]",
+                "objection25": "Objection 25\n          Comments: Provide FF nested model tests comparing the full model to subset models excluding one variable at a time to\ndemonstrate the significance of each term. F-nested model tests include the F-statistic based on the removal of one variable and\ncorresponding F-test critical values, which come from the F table. The numerator degrees of freedom should be equal to the number\nof added parameters in the larger model and the denominator degrees of freedom should be equal to the number of records in the\ndataset minus the number of parameters in the larger model. FF nested model tests are described in section 6.2.1 of Generalized\nLinear Models for Insurance Rating.  (https://www.casact.org/sites/default/files/2021-03/8_GLM.pdf).  [PC9999]",
+                "objection26": "Objection 26\n          Comments: Provide a table showing AIC after the introduction of each additional predictor variable. [PC9999]",
+                "objection27": "Objection 27\n          Comments: Provide a correlation matrix. [PC9999]",
+                "objection28": "Objection 28\nSERFF Tracking #: TRVD-134038097\nState Tracking #: TRVD-134038097 -GLM\nCompany Tracking #: 2024-03-0073\nState:\nArizona\nFirst Filing Company:\nThe Travelers Home and Marine Insurance\nCompany , ...\nTOI/Sub-TOI:\n04.0 Homeowners/04.0000 Homeowners Sub-TOI Combinations\nProduct Name:\nTIS 1.0\nProject Name/Number: 63849/2024-03-0073\nPDF Pipeline for SERFF Tracking Number TRVD-134038097 Generated 03/02/2025 11:57 PM\n\n          Comments: Provide whether the tables of actual vs. predicted are based on auto data or both home and auto data. [PC9999]",
+                "objection29": "Objection 29\n          Comments: Provide a Lorenz curve as described in section 7.2.4 of Generalized Linear Models for Insurance Rating.\n(https://www.casact.org/sites/default/files/2021-03/8_GLM.pdf). [PC9999]",
+                "objection30": "Objection 30\n          Comments: Provide a lift chart on homeowners only loss data to show that the model validates well on the specific line of\nbusiness. [PC9999]"
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "03/21/2024",
+                "objection1": "The Department has reviewed the filing and has the following interrogatories/objections.\nAs submitted filing does not comply with Arizona statutes and/or administrative code.  While grounds exist to disapprove the filing, we\nare providing you with an opportunity to resolve the objections or to withdraw the filing.  If neither occurs, we will disapprove or reject\nthe filing as ambiguous, misleading or deceptive or otherwise failing to comply with Arizona law.  The objections are:\n     Objection 1\n          Comments: This filing introduces a New GLM/predictive model. The Department has created a new filing type specifically for\nGLM/predictive models. The company will need to remove the model and its support from this filing and file a new corresponding\nfiling under the the correct filing type. [PC0425]"
+            }
+        },
+        "group_code": 3548,
+        "company_codes": [
+            27998,
+            36137
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "AZ_TRVD-G134416866": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/18/2025",
+                "objection1": "The Department has reviewed the filing and has the following interrogatories/objections.\nAs submitted filing does not comply with Arizona statutes and/or administrative code.  While grounds exist to disapprove the filing, we\nare providing you with an opportunity to resolve the objections or to withdraw the filing.  If neither occurs, we will disapprove or reject\nthe filing as ambiguous, misleading or deceptive or otherwise failing to comply with Arizona law.  The objections are:\n     Objection 1\n          Comments: Inasmuch as your company has an indicated rate change of 22% and a rate change of only 7.9% and 9.4% has\nbeen selected, pursuant to ARS § 20-385(B), please explain what steps your company plans on taking to reduce the possibility of\ninadequate rates.  Due consideration should be given to past and prospective loss experience within and outside this state, to\ncatastrophe hazards, if any, to a reasonable margin for underwriting profit and contingencies, to dividends, savings or unabsorbed\npremium deposits allowed or returned to policyholders, members or subscribers, to past or prospective expenses within and outside\nthis state, to investment income, and to all other relevant factors within and outside this state. [PC0103]"
+            }
+        },
+        "group_code": 3548,
+        "company_codes": [
+            27998,
+            36137
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "AZ_TRVD-G134417169": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/18/2025",
+                "objection1": "The Department has reviewed the filing and has the following interrogatories/objections.\nAs submitted filing does not comply with Arizona statutes and/or administrative code.  While grounds exist to disapprove the filing, we\nare providing you with an opportunity to resolve the objections or to withdraw the filing.  If neither occurs, we will disapprove or reject\nthe filing as ambiguous, misleading or deceptive or otherwise failing to comply with Arizona law.  The objections are:\n     Objection 1\n          Comments: Inasmuch as your company has an indicated rate change of 11.7% and a rate change of only 2% has been\nselected, pursuant to ARS § 20-385(B), please explain what steps your company plans on taking to reduce the possibility of\ninadequate rates.  Due consideration should be given to past and prospective loss experience within and outside this state, to\ncatastrophe hazards, if any, to a reasonable margin for underwriting profit and contingencies, to dividends, savings or unabsorbed\npremium deposits allowed or returned to policyholders, members or subscribers, to past or prospective expenses within and outside\nthis state, to investment income, and to all other relevant factors within and outside this state. [PC0103]"
+            }
+        },
+        "group_code": 3548,
+        "company_codes": [
+            27998,
+            36137
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "CA_ALSE-134306035": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/25/2025",
+                "objection1": "The underwriting Guideline submitted in this filing, looks completely difference from the one you referred to in filing 23-443. If\nyou haven't explained so, Is this new U/W guidelines going to replace the one in 23-443, or is there different versions of the U/W\nguidelines, it looks like this new one is for the consumers and the old one is for internal use?\nIf it is going to replace the old one entirely, please explain the need of this and the reason behind it.\nFeel free to contact if you have any questions or want do discuss anything.\nTina\n213-346-6795"
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "02/25/2025",
+                "objection1": "The underwriting Guideline submitted in this filing, looks completely difference from the one you referred to in filing 23-443. If\nyou haven't explained so, Is this new U/W guidelines going to replace the one in 23-443, or is there different versions of the U/W\nguidelines, it looks like this new one is for the consumers and the old one is for internal use?\nIf it is going to replace the old one entirely, please explain the need of this and the reason behind it.\nFeel free to contact if you have any questions or want do discuss anything.\nTina\n213-346-6795"
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "02/14/2025",
+                "objection1": "Please identify the filing where this Loss History information already exists. This is information is crucial so that the department can\nmake the decision on whether the changes are for \"clarification\" purposed and/or a \"change in process.\"\nIn reference to page. 11 - Course of Construction Endorsement",
+                "objection2": "When you reference that an individual underwriter will evaluate risks to ensure it is within your guidelines. Please clarify whether\nthe guidelines you are referencing exist within the construction endorsement eligibility criteria or is it found in another\nsection/endorsement.",
+                "objection3": "If so, please add to the underwriting guidelines that the underwriter will use existing published underwriting guidelines."
+            },
+            "Objection_letter4": {
+                "objection_letter_date": "01/31/2025",
+                "objection2": "Page 4. You are added the following details: Risk does not exceed maximum of four families for both owner-occupied and rental\nproperties, and Maximum of four dwellings that are tenant occupied.\n-What is the reason for the limiting change being introduced by Risk does not exceed maximum of four families for both owner-\noccupied and rental properties?\n-How many policy holders will be impacted by this change?\n-What is the impact, premium or other consequences from the proposed change?\n-What is the reason for the limiting change being introduced by Maximum of four dwellings that are tenant occupied.\n-How many policy holders will be impacted by this change?\n-What is the impact, premium or other consequences from the proposed change?",
+                "objection3": "Page 5. Under primary Dwelling you added B or 1Y  8Y for protection class 1, or 1X  8X for protection class 9. Under\nSecondary/Seasonal/Non-Seasonal Dwellings/Dwelling Fire you added B or 1Y  8Y next to Protection Class 1-8, and or 1X  8X next\nto Protection class 9, explain the following:\n-Please explain what the additions mean.\n-Explain the reason for the addition.\n-Was this information included in any other document prior to this addition?\n-Is there a description or definition that explains the meaning of the information added?",
+                "objection4": "Page 7. Includes proposed addition of a loss History details, please provide the following:\n-What is the reason for the page addition?\n-Was this information included in any other document prior to this addition?",
+                "objection5": "Page. 9.\n-Please explain the reasons Wharves, and Jetties are being proposed as ineligible exposures?\n-Why are dwellings located in Main, San Francisco, or San Mateo counties no longer eligible?\nSERFF Tracking #: ALSE-134306035\nState Tracking #: 24-2199\nCompany Tracking #: ER52305\nState:\nCalifornia\nFiling Company:\nEncompass Insurance Company\nTOI/Sub-TOI:",
+                "objection04": "0 Homeowners/04.0000 Homeowners Sub-TOI Combinations\nProduct Name:\nEIC Home, Condo, Renters, Dwelling Fire\nProject Name/Number: Underwriting Guidelines/RITM06249095\nPDF Pipeline for SERFF Tracking Number ALSE-134306035 Generated 02/28/2025 12:59 AM\n\n-How many policy holders will be impacted by this change?\n-What is the impact, premium or other consequences from the proposed change?"
+            },
+            "Objection_letter5": {
+                "objection_letter_date": "01/23/2025",
+                "objection2": "Please confirm whether you are pausing non-renewals for all 885 policies? Or are you only pausing non-renewals for policies\nspecifically included in the moratorium?"
+            },
+            "Objection_letter6": {
+                "objection_letter_date": "01/14/2025",
+                "objection2": "Based on your book of business, what is the premium amount for the 885 policies that will be non-renewed?",
+                "objection3": "Have you started to non-renew policyholders? If so, how many?",
+                "objection4": "When do you plan to start with the non-renewals?",
+                "objection5": "In light of Commissioner Laras 1-year moratorium to protect Southern California homeowners, will certain non-renewals be\ndeferred or reconsidered?"
+            },
+            "Objection_letter7": {
+                "objection_letter_date": "12/24/2024",
+                "objection2": "Is there an accompanying already approved rate filing associated with the proposed wildfire score change? If so, please provide\nthe relevant filing details for reference.",
+                "objection3": "Please confirm whether the mentioned 7.5% of non-renewals is due to the proposed changes to your wildfire score.",
+                "objection4": "Please clarify what the 7.5% represents in numerical terms with respect to your book of business? For example, how many policies\ndoes the 7.5% correspond to?",
+                "objection5": "Given that some policyholders will be renewed under the new scoring model, please clarify how these renewed policy holders will\nbe rated under the proposed changes?\nAdditionally, please provide the associated rate filing that reflects this information."
+            },
+            "Objection_letter8": {
+                "objection_letter_date": "12/19/2024",
+                "objection1": "As noted in previous filings, all Proposition 103 filings - including form and rule filings, must undergo review for rate impact,\nirrespective of whether they are rate filings. Please re-submit the Deemer waiver language exactly as we requested, without the\naddition of notes or clauses as you did 12-18-2024. Please note that if the Deemer waiver is not submitted as requested, the filing\nmay be subject to a notice of hearing.\nWe ask that Encompass Insurance Company submits a SERFF note with the wording below to waive the Deemer provisions without\nadditions or modifications:\nRegarding the above-referenced rate application, Encompass Insurance Company (\"applicant\") hereby waives all Deemer provisions\netc. If the applicant wishes to reactivate the Deemer provisions, the applicant will submit a request to reactivate in writing to CDI via\nSERFF. The Deemer provisions will reactivate five days after the Department receives the written request to reactivate. After\nreactivation, the parties will have 15 days before the 60-day Deemer runs and 125 days before the 180-day Deemer runs."
+            },
+            "Objection_letter9": {
+                "objection_letter_date": "12/18/2024",
+                "objection1": "Our records indicate that the deemer date for this filing is January 07, 2025. In order for us to complete our review, we request\na waiver of the deemer.\nWe ask that Encompass Insurance Company submits a SERFF note with the wording below to waive the deemer provisions:\nRegarding the above-referenced rate application, Encompass Insurance Company (\"applicant\") hereby waives all deemer provisions\netc. If the applicant wishes to reactivate the deemer provisions, the applicant will submit a request to reactivate in writing to CDI via\nSERFF. The deemer provisions will reactivate five days after the Department receives the written request to reactivate. After\nreactivation, the parties will have 15 days before the 60-day Deemer runs and 125 days before the 180-day Deemer runs."
+            },
+            "Objection_letter10": {
+                "objection_letter_date": "12/04/2024",
+                "objection1": "Objection 1\n          - New Prior Approval Rate Application (Supporting Document)\n          Comments: 1. Please provide the Homeowners or Residential Property Questionnaire.\nAll homeowners or residential property lines of business must include a completed Homeowners or Residential Property\nquestionnaire. For further information please see page 6 of the Prior Approval Rate Filing Instructions."
+            },
+            "Objection_letter11": {
+                "objection_letter_date": "12/04/2024",
+                "objection1": "Objection 1\n          - Tracked Version of Underwriting Guidelines (Supporting Document)\n          Comments:  Regarding the Wildfire Risk Score change from 50 to 20, answer the following questions:\n1.What is the impact/consequences from changing it from what it is now (50) to what being proposed (20)?\n2.Please explain whether the proposed change in the Wildfire Risk Score is positive or negative for the policyholders.\n3.Will policyholders be non-renewed based on this new proposed Wildfire Risk Score?\n4.What prompted the change in Wildfire Risk Score?",
+                "objection2": "Objection 2\n          - New Prior Approval Rate Application (Supporting Document)\n          - Tracked Version of Underwriting Guidelines (Supporting Document)\n          Comments: 1. Given the numerous changes being proposed, please provide a detailed explanation of how these proposed\nchanges will not result in any rate impact, as stated in your memorandum. It is important to understand how the proposed changes\nalign with maintaining rate neutrality, particularly given the potential implications these changes could have on your\nunderwriting/eligibility process."
+            },
+            "Objection_letter12": {
+                "objection_letter_date": "12/04/2024",
+                "objection1": "Objection 1\n          - Underwriting Guidelines, null (Rate)\n          - Tracked Version of Underwriting Guidelines (Supporting Document)\n          Comments: 1. Please explain why the previous version of the underwriting guidelines (CA HO EIC ER52305 Home\nUnderwriting Guidelines) differ from CA EIC Property UW Guideline (clean/final)? They differ in format and in information contained\nwithin the two documents.",
+                "objection2": "Objection 2\n          - Attachment A  (Supporting Document)\n          - Tracked Version of Underwriting Guidelines (Supporting Document)\n          Comments: 1. Attachment A (Exhibit 18) page 3- includes changes regarding wildfire risk score. However, the clean/final CA\nEIC Property UW guidelines found under the rate/rule tab are different than that of Exhibit 18. Additionally, the proposed tracked\nchanges for CA EIC Property UW guidelines includes many proposed changes that are additional to the wildfire risk score.\n1A. Explain whether you are proposing the changes found within CA EIC Property UW guidelines which include the maximum binding\nauthority from $1,500,000 to $1,750,000, addition of Loss History found on page 8, removal of wood burning stove requirements on\npage 12, among other changes.\n2. If your changes indeed include changes found under the redlined CA EIC Property UW guidelines, complete/provide the following:\n2A. Add summary of proposed changes in the memorandum and or/exhibit 18. Additionally, explain the reason for the changes being\nproposed. Lastly, include the current CA EIC Property UW guidelines in place."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            10358
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "CA_LBRM-134233558": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/19/2025",
+                "objection1": "Please update your proposed effective date to be consistent with the companion rate filing 24-1141."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "10/22/2024",
+                "objection1": "Our records indicate that the deemer date for this filing is November 12, 2024. In order for us to complete our review, we\nrequest a waiver of the deemer.\nWe ask that First National Insurance Company of America, Safeco Insurance Company of America, Safeco Insurance Company of\nIllinois submits a SERFF note with the wording below to waive the deemer provisions:\nRegarding the above-referenced rate application, First National Insurance Company of America, Safeco Insurance Company of\nAmerica, Safeco Insurance Company of Illinois (\"applicants\") hereby waive all deemer provisions etc. If the applicants wish to\nreactivate the deemer provisions, the applicants will submit a request to reactivate in writing to CDI via SERFF. The deemer\nprovisions will reactivate five days after the Department receives the written request to reactivate. After reactivation, the parties will\nhave 15 days before the 60-day deemer runs and 125 days before the 180-day deemer runs."
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "10/21/2024",
+                "objection1": "Rule - The dwelling is insured for an amount that is adequate to reconstruct it at today's costs\nPlease justify why this rule will not make any impact to existing policies. Will you only run evaluation for new business but keep\nrenewal as it is?",
+                "objection2": "Rule with Limit/Deductible Restriction\nWhat if existing policies do not comply with any CSA, water valve requirements, are they allowed to keep current limit/deductible?",
+                "objection3": "Rule with Construction Restriction\nPlease specify what dwelling characteristics can be captured in your current data and what characteristics will be relied on your\ninspection. How will you ensure the consistency of your inspection?\nPlease further explain \"Non-renewal action may be taken for other variables in addition to shingle roofs older than 25 years\". Do you\nmean only \"Asphalt / Composite Shingle roofs older than 25 years\" rule will be strictly enforce for non-renewal while the other risk\ncharacteristics will be options for underwriter to decide eligibility?",
+                "objection4": "Rule with No Correlation to Loss Exposure\nCCR § 2360.0 (b) define, \"Eligibility Guidelines\" are specific, objective factors, or categories of specific, objective factors, which are\nselected and/or defined by an insurer, and which have a substantial relationship to an insured's loss exposure. Please justify the loss\nrelationship for each of these rules:\n• Multiple Primary Residences\nDefine \"primary residences\". If the insured has 2 homes, which he stays 1 home during weekdays and the other during weekends.\nAre both homes considered primary residences thus will be non-renewed?\n• Risks that are not accessible year-round\nDefine \"not accessible year-round\". Do you have any existing rule, term or condition related to vacant buildings?\n• Risks that are Secondary Dwellings and we do not write the primary risk\nIf you cover primary dwelling, then you will be able to write secondary dwelling. This seems contradict your first rule of \"multiple\nprimary residence\". Moreover, your last explanation will no longer be valid as either house will experience increase of loss exposure\ndue to lack of maintenance year-round.\n• Risks with more than 4 outbuildings on the property\nDefine \"outbuilding\" and how it presents substantial relationship to an insured's loss exposure. Why you set the number of 4?\n• Risks with more than 2 mortgagees\nThere is no direct correlation for this characteristics. Please remove it.\nLastly, provide process how underwriters determine above characteristics and how they ensure consistent eligibility rule is applied."
+            },
+            "Objection_letter4": {
+                "objection_letter_date": "10/09/2024",
+                "objection1": "CAUnderwritingData - NHC.pdf\nPlease submit excel version of prior supporting documents. Note that we will need excel file for all future data supporting documents.",
+                "objection2": "Rule - The dwelling is insured for an amount that is adequate to reconstruct it at today's costs\nPlease specify how you determine \"adequate\". Are you using any 3rd party evaluation system such as MSB? How will this rule affect\nexisting policies?",
+                "objection3": "Rule with Limit/Deductible Restriction\n• Primary dwellings with Coverage A Replacement Cost greater than $2,000,000 must have central station fire alarm and monitored\nlow temp and an automatic water shut off valve.\n• Secondary dwellings with Coverage A Replacement Cost greater than $500,000 must have central station fire alarm and monitored\nlow temp and an automatic water shut off valve.\n• Risks with an All Perils Deductible less than $1,000\nPlease explain why there will be no non-renewal from above rules. Will insureds be forced to choose higher deductibles or lower\nlimits in order to retain eligibility?",
+                "objection4": "Rule with Construction Restriction\n• Risks with any of the following foundation characteristics:\n• Open foundations (e.g., post, pier, piling) or not attached to a permanent foundation\n• Foundation built on a steep slope\n• Foundation or home suspended over hillside\n• Risks with any of the following roof characteristics:\n• More than 2 layers of roofing material\n• Asphalt / Composite Shingle roofs older than 25 years\n• Risks that are Architecturally unique or any Non-Standard Buildings\n• Risks listed on any historical register, individually, or within a historic district\n• Buildings constructed in whole or part for other than residential purposes\nPlease advise how you enforce above rules. Will insureds be responsible for additional fee if inspection is required? Why you believe\nthere will be no non-renewal for above rules except • Asphalt / Composite Shingle roofs older than 25 years?",
+                "objection5": "Rule with No Correlation to Loss Exposure\n• Multiple Primary Residences\n• Risks that are not accessible year-round\n• Risks that are Secondary Dwellings and we do not write the primary risk\n• Risks with more than 4 outbuildings on the property\n• Risks with more than 2 mortgagees\nPlease justify how above rules preset substantial relationship to an insured's loss exposure. Why you believe there will be no non-\nrenewal for above rules?"
+            },
+            "Objection_letter5": {
+                "objection_letter_date": "09/12/2024",
+                "objection1": "Please submit premium, loss data related to your eligibility guidelines. This should include impact for entire book and\nbreakdown for each rule.\ni.e. How many policies will be non-renewed due to Risks with an All Perils Deductible less than $1,000?"
+            },
+            "Objection_letter6": {
+                "objection_letter_date": "09/05/2024",
+                "objection1": "Thank you for your application. However, to meet basic compliance for this filing, please respond to the objection(s) below.\n     Objection 1\n          - New Prior Approval Rate Application (Supporting Document)\n          Comments: Since this filing is a group filing, provide the latest applicable CDI file number for EACH company on page 1 line 36\nof the Application."
+            },
+            "Objection_letter7": {
+                "objection_letter_date": "09/04/2024",
+                "objection1": "Thank you for your application. However, to meet basic compliance for this filing, please respond to the objection(s) below.\n     Objection 1\n          Comments: Thank you for your application. However, we have been unable to process your submission because it is\nincomplete.\nOur filing instructions say: \"Every insurer wishing to introduce new, or change existing, rules, rates or forms, or to introduce a new\nprogram, must complete a Prior Approval Rate Application (Application), in compliance with Title 10, Chapter 5, Subchapter 4.8 of the\nCalifornia Code of Regulations (CCR) and file it with the Commissioner.\"\nPlease submit a Prior Approval Rate Application. Complete page 3 of the application to identify the type of filing in the Filing Type\nsection. Then, submit ALL items listed in the Filing Checklist section."
+            }
+        },
+        "group_code": 111,
+        "company_codes": [
+            24724,
+            24740,
+            39012
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "CA_LBRM-134354159": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/18/2025",
+                "objection1": "Please advise the reason why you cannot renew FNIC accounts to affiliated companies' HO3 program. Particularly HO3 under\nSafeco Insurance Company of America, and NHC under GICA."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "01/31/2025",
+                "objection1": "Please include link to the home insurance finder tool on CDI website.",
+                "objection2": "The non-renewal is the result of them no longer offering the product.  Why confuse the consumer stating it is a result of an\nunderwriting review?  Please justify or remove it."
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "01/28/2025",
+                "objection1": "Our records indicate that the deemer date for this filing is February 25, 2025. In order for us to complete our review, we request\na waiver of the deemer.\nWe ask that FIRST NATIONAL INSURANCE COMPANY OF AMERICA submits a SERFF note with the wording below to waive the\ndeemer provisions:\nRegarding the above-referenced rate application, FIRST NATIONAL INSURANCE COMPANY OF AMERICA (\"applicant\") hereby\nwaives all deemer provisions etc. If the applicant wishes to reactivate the deemer provisions, the applicant will submit a request to\nreactivate in writing to CDI via SERFF. The deemer provisions will reactivate five days after the Department receives the written\nrequest to reactivate. After reactivation, the parties will have 15 days before the 60-day deemer runs and 125 days before the 180-\nday deemer runs."
+            },
+            "Objection_letter4": {
+                "objection_letter_date": "01/24/2025",
+                "objection1": "The Department has received notification of First National Insurance Company of America's intent to withdraw Legacy\nHomeowner (H3) Program, effective 01/01/2026; Attached is our letter explaining the regulatory impact of withdrawing an approved\nProgram, including the requirement to abide by the following terms:\n- After 01/01/2026 First National Insurance Company of America will not renew any policies from the withdrawn Legacy Homeowner\n(H3) Program into any similar programs offered by the same insurer group in California.\n- First National Insurance Company of America will not file a replacement program for at least three years after the effective date of\nthe withdrawal of the Legacy Homeowner (H3) Program.\nPlease respond to affirmatively agree that the Company will abide by the terms stated above."
+            },
+            "Objection_letter5": {
+                "objection_letter_date": "01/13/2025",
+                "objection1": "Please revise your NRN to\nJustify the reason for non-renewal. The non-renewal is the result of them no longer offering the product. Why confuse the consumer\nstating it is a result of an underwriting review? “We are simply focusing our investments on core go-forward products …” This is a bit\nconfusing, does the average insured understand what “core go-forward product” means? Clarify or eliminate the confusing language."
+            },
+            "Objection_letter6": {
+                "objection_letter_date": "12/26/2024",
+                "objection1": "Filing Description\nYou refer SERFF #LBRM-134133915 as the corresponding rate filing. However, the rate filing is from GICA and for Essential\nprogram. Please correct your description.",
+                "objection2": "Non-renewal Data\nPlease submit your non-renewal data in excel format and ensure it matches the data submitted under corresponding rate filing.",
+                "objection3": "Non-renewal Notice\nPlease update your notice to comply with following codes:\nCIC §678(a)(1)(B)(iv) requires the NRN to include the Department’s Consumer Services Division contact information.\nCIC § 678(e) requires the NRN to be accompanied by a notice that provides CDI’s California Homeowners Insurance Finder, online\ntool, information and FAIR Plan information.\nCIC §10095.7(b) – requires the insurer provide to applicant, or a policyholder whose policy is cancelled or nonrenewed, information\nregarding the department’s California Homeowners Insurance Finder.\nCIC §10095(h) – requires the insurer to provide applicant, or a policyholder whose policy is cancelled or nonrenewed, the internet\nwebsite address and statewide toll-free number of the FAIR Plan.\nCIC §678(c)(1) requires the nonrenewal notice be delivered or mailed at least 75 days before the policy expiration. ok",
+                "objection4": "Zipcode List\nPlease provide non-renewal list based on zipcode and confirm that you will comply with following code\nCIC §675.1(b)(1) prohibits the insurer from cancelling or nonrenewing residential property insurance on a property located in any ZIP\nCode within or adjacent to the fire perimeter, for one year after the declaration of state of emergency."
+            }
+        },
+        "group_code": 111,
+        "company_codes": [
+            24724
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "CO_LBPM-134412448": {
+        "objections": {},
+        "group_code": 111,
+        "company_codes": [
+            19690,
+            24740
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "CO_LEMO-134207600": {
+        "objections": {},
+        "group_code": 5032,
+        "company_codes": [
+            16023
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "CO_USAA-134337652": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "12/13/2024",
+                "objection1": "This filing has been received, but before further action can be taken, please address the following:\n     Objection 1\n          - Filing Memorandum for Property and Casualty Rates (Supporting Document)\n          Comments: Regarding the profit and contingency provision support and the selected 0.800 premium to surplus ratio\nassumption, please discuss in additional detail how the economic capital model data and USAAs risk appetite is uniquely affected by\nthe state of Colorado homeowners line relative to: a. the broader geographic region, b. countrywide, and c, other personal lines\nproducts."
+            }
+        },
+        "group_code": 200,
+        "company_codes": [
+            25941,
+            25968,
+            18600,
+            21253
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "CT_TRVD-G134412788": {
+        "objections": {},
+        "group_code": 3548,
+        "company_codes": [
+            38130
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "GA_ALSE-134333693": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/06/2025",
+                "objection1": "Please respond to the following:\nPlease amend the effective date to 03/01/2025\nOCGA 33-32-11\n(a) Not later than March 1, 2025, insurers shall provide a premium discount or insurance rate reduction for new or retrofitted\nresidential insurable property in an amount and manner as established in subsection (e) of this Code section and in accordance with\nCode Section 33-32-10. In addition, insurers may offer additional adjustments in deductible or other credit rate differentials or a\ncombination thereof. Such adjustments shall be available under the terms specified in this Code section to any owner who builds or\nlocates a new residential insurable property or who retrofits an existing residential insurable property to resist loss due to tornado,\nhurricane, or other catastrophic windstorm events."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            29688
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "GA_ALSE-134336829": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/06/2025",
+                "objection1": "Please respond to the following:\nPlease amend the effective date to 03/01/2025\nOCGA 33-32-11\n(a) Not later than March 1, 2025, insurers shall provide a premium discount or insurance rate reduction for new or retrofitted\nresidential insurable property in an amount and manner as established in subsection (e) of this Code section and in accordance with\nCode Section 33-32-10. In addition, insurers may offer additional adjustments in deductible or other credit rate differentials or a\ncombination thereof. Such adjustments shall be available under the terms specified in this Code section to any owner who builds or\nlocates a new residential insurable property or who retrofits an existing residential insurable property to resist loss due to tornado,\nhurricane, or other catastrophic windstorm events."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            19240
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "GA_ALSE-134336890": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/06/2025",
+                "objection1": "Please respond to the following:\nPlease amend the effective date to 03/01/2025\nOCGA 33-32-11\n(a) Not later than March 1, 2025, insurers shall provide a premium discount or insurance rate reduction for new or retrofitted\nresidential insurable property in an amount and manner as established in subsection (e) of this Code section and in accordance with\nCode Section 33-32-10. In addition, insurers may offer additional adjustments in deductible or other credit rate differentials or a\ncombination thereof. Such adjustments shall be available under the terms specified in this Code section to any owner who builds or\nlocates a new residential insurable property or who retrofits an existing residential insurable property to resist loss due to tornado,\nhurricane, or other catastrophic windstorm events."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            19232
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "GA_ALSE-134337450": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/06/2025",
+                "objection1": "Please respond to the following:\nPlease amend the effective date to 03/01/2025\nOCGA 33-32-11\n(a) Not later than March 1, 2025, insurers shall provide a premium discount or insurance rate reduction for new or retrofitted\nresidential insurable property in an amount and manner as established in subsection (e) of this Code section and in accordance with\nCode Section 33-32-10. In addition, insurers may offer additional adjustments in deductible or other credit rate differentials or a\ncombination thereof. Such adjustments shall be available under the terms specified in this Code section to any owner who builds or\nlocates a new residential insurable property or who retrofits an existing residential insurable property to resist loss due to tornado,\nhurricane, or other catastrophic windstorm events."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            37907
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "GA_ALSE-134337637": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/06/2025",
+                "objection1": "Please respond to the following:\nPlease amend the effective date to 03/01/2025\nOCGA 33-32-11\n(a) Not later than March 1, 2025, insurers shall provide a premium discount or insurance rate reduction for new or retrofitted\nresidential insurable property in an amount and manner as established in subsection (e) of this Code section and in accordance with\nCode Section 33-32-10. In addition, insurers may offer additional adjustments in deductible or other credit rate differentials or a\ncombination thereof. Such adjustments shall be available under the terms specified in this Code section to any owner who builds or\nlocates a new residential insurable property or who retrofits an existing residential insurable property to resist loss due to tornado,\nhurricane, or other catastrophic windstorm events."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            17230
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "GA_ALSE-134337677": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/06/2025",
+                "objection1": "Please respond to the following:\nPlease amend the effective date to 03/01/2025\nOCGA 33-32-11\n(a) Not later than March 1, 2025, insurers shall provide a premium discount or insurance rate reduction for new or retrofitted\nresidential insurable property in an amount and manner as established in subsection (e) of this Code section and in accordance with\nCode Section 33-32-10. In addition, insurers may offer additional adjustments in deductible or other credit rate differentials or a\ncombination thereof. Such adjustments shall be available under the terms specified in this Code section to any owner who builds or\nlocates a new residential insurable property or who retrofits an existing residential insurable property to resist loss due to tornado,\nhurricane, or other catastrophic windstorm events."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            19232
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "GA_ALSE-134337686": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/06/2025",
+                "objection1": "Please respond to the following:\nPlease amend the effective date to 03/01/2025\nOCGA 33-32-11\n(a) Not later than March 1, 2025, insurers shall provide a premium discount or insurance rate reduction for new or retrofitted\nresidential insurable property in an amount and manner as established in subsection (e) of this Code section and in accordance with\nCode Section 33-32-10. In addition, insurers may offer additional adjustments in deductible or other credit rate differentials or a\ncombination thereof. Such adjustments shall be available under the terms specified in this Code section to any owner who builds or\nlocates a new residential insurable property or who retrofits an existing residential insurable property to resist loss due to tornado,\nhurricane, or other catastrophic windstorm events."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            19240
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "GA_LEMO-134374428": {
+        "objections": {},
+        "group_code": 5032,
+        "company_codes": [
+            16023
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "GA_LEMO-134376013": {
+        "objections": {},
+        "group_code": 5032,
+        "company_codes": [
+            16023
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "GA_TRVD-G134360540": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/27/2025",
+                "objection1": "Please respond to the following:\nHB279 was signed into law in April 2024 and became effective July 1, 2024. It states a company must provide the discount by\n3/1/2025. Failure to prepare IT for implementation is not valid. The company needs to find a way to provide the discount by 3/1/25.\nTravelers is seemingly the only company with issues, likely why the company is under market conduct."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "02/26/2025",
+                "objection1": "Please respond to the following:\nPer OCGA 33-32-11, the effective date for new and renewal discounts needs to be in effect by 3/1/25. Please amend."
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "02/26/2025",
+                "objection1": "Please respond to the following:\nIBHS Bronze/Roof needs a minimum discount of 5%.\nYou can either amend as requested or the filing will be disapproved."
+            },
+            "Objection_letter4": {
+                "objection_letter_date": "02/19/2025",
+                "objection1": "Please respond to the following:\nIBHS Bronze/Roof needs a minimum discount of 5%. Please amend."
+            }
+        },
+        "group_code": 3548,
+        "company_codes": [
+            38130
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "GA_TRVD-G134400530": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/27/2025",
+                "objection1": "Please respond to the following:\nThis was filed on 2/3/25 to be effective 2/28/25 which does not allow 45 days,\nper OCGA, 33-9-21 (D) Any domestic, foreign, or alien insurer that is authorized to write insurance in this state must file with the\nCommissioner any rate, rating plan, rating system, or underwriting rule at least 45 days prior to any indicated effective date for all\ninsurance other than personal private passenger motor vehicle insurance. No rate, rating plan, rating system, or underwriting rule\nrequired to be filed under this subsection will become effective, nor may any premium be collected by any insurer thereunder, unless\nthe filing has been received by the Commissioner in his office not less than 45 days prior to its effective date.\nPer OCGA 33-32-11, the discount was to be provided by 3/1/25, so I am willing to close after the correct discount is applied. But I am\njust not understanding why Travelers is having such a hard time with this."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "02/27/2025",
+                "objection1": "Please respond to the following:\nIBHS Bronze/Roof needs a minimum discount of 5%. Please amend."
+            }
+        },
+        "group_code": 3548,
+        "company_codes": [
+            27998,
+            36137,
+            19070,
+            19038,
+            25658,
+            36161,
+            25623,
+            19062,
+            25615,
+            25666,
+            28188,
+            25674
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "IA_AMSI-134274777": {
+        "objections": {},
+        "group_code": 155,
+        "company_codes": [
+            10872
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "IL_HART-134383807": {
+        "objections": {},
+        "group_code": 91,
+        "company_codes": [
+            11000,
+            22357
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "IL_LEMO-134419957": {
+        "objections": {},
+        "group_code": 5032,
+        "company_codes": [
+            16023
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "KS_GMMX-134433936": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            15130
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "KS_LBPM-134379791": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/28/2025",
+                "objection1": "Objection 1\n          - Rate/Rule Filing Checklist (Supporting Document)\n          Comments: It appears the document \"Histogram and Max Rate Increase\" was not included. Please attach the document for\nreview.",
+                "objection2": "Objection 2\n          - Actuarial Justification (Supporting Document)\n          Comments: \"Provide a signed attestation by responsible personnel that the filing is compliant with the  following from Kansas\nStatutes Chapter 40. Insurance : \"\"In determining whether rates are not excessive or inadequate or not unfairly discriminatory:\n(a) Due consideration shall be given to:\n(1) Past and prospective loss and expense experience within and outside the state;\n(2) catastrophe hazards and contingencies;\n(3) trends within and outside this state;\n(4) loadings for leveling premium rates over time;\n(5) dividends, savings or unabsorbed premium deposits allowed or returned by insurers to their policyholders, members, or\nsubscribers and the investment income of the insurer; and\n(6) all other relevant factors within and outside the state, including the judgment of technical personnel.\n(b) The expense provisions included in the rates to be used by an insurer may reflect the operating methods of the insurer, or group\nof insurers, and, so far as it is credible, its own expense experience.\n(c) Risks may be classified in any reasonable way for the establishment of rates and minimum premiums, except that no classification\nmay be based on race, color, creed or national origin and classifications in automobile insurance may not be based on physical\ndisability of an insured. &#8194;Rates thus produced may be modified for individual risks in accordance with rating plans, schedules,\nindividual risk premium modification plans and expense reduction plans that establish reasonable standards for measuring probable\nvariations in experience, hazards, expenses or any combination of those factors.\nSuch standards shall permit recognition of expected differences in loss or expense characteristics, and shall be designed so that\nsuch plans are reasonable and equitable in their application, and are not unfairly discriminatory, violative of public policy or otherwise\ncontrary to the best interests of the people of this state. This section shall not prevent the development of new or innovative rating\nmethods which otherwise comply with this act.\n(d) Rates may be modified for individual risks, upon written application of the insured, stating the insured's reasons therefore, filed\nwith and not disapproved by the commissioner within 10 days after filings.\n(e) The rates may contain provisions for contingencies and an allowance permitting a reasonable profit. &#8194;In determining the\nreasonableness of the profit, consideration shall be given to the investment income attributable to the line of insurance.\"",
+                "objection3": "Objection 3\n          - Actuarial Justification (Supporting Document)\n          Comments: The profit provision is stated as 9%, but in the actuarial memo, appendix A, exhibit D, which is referred to as the\n\"profit provision\", it's shown as 14.3%. Please clarify which is correct.",
+                "objection4": "Objection 4\nSERFF Tracking #: LBPM-134379791\nState Tracking #:\nCompany Tracking #: 24-KS-S-HO-R-NHC-ASR\nState:\nKansas\nFiling Company:\nSafeco Insurance Company of America\nTOI/Sub-TOI:\n04.0 Homeowners/04.0000 Homeowners Sub-TOI Combinations\nProduct Name:\nHomeowners\nProject Name/Number: 24-KS-S-HO-R-NHC-ASR/24-KS-S-HO-R-NHC-ASR\nPDF Pipeline for SERFF Tracking Number LBPM-134379791 Generated 02/04/2025 02:45 AM\n\n          - Actuarial Justification (Supporting Document)\n          Comments: Show developed prospective loss costs for all lines of business specified in K.S.A 40-1102 and K.S.A. § 40-901,\nand amendments, except rates, and rules, and forms filed by midwest rating and service bureau.\nIn the checklist, the source reference shows \"1853\"."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "01/21/2025",
+                "objection1": "This will acknowledge your letter whereby you submitted the captioned filing.\n     Objection 1\n          Comments: Kansas has developed a new rate filing checklist (file \"KS P&C Checklist Final\" attached in the KansasFC General\nInstructions page). The checklist includes tabs that apply to different types of filings. Not all tabs and cells will apply to every filing.\nEach tab includes a column that requires the carrier to include source reference in the filing for each requirement. It is expected that\nthe carrier will indicate the exhibit and page number where that requirement is in the filing. If a cell does not apply to the submitted\nfiling please mark that cell N/A in the source reference column. Please attach the checklist as an excel document."
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "01/16/2025",
+                "objection1": "This will acknowledge your letter whereby you submitted the captioned filing.\n     Objection 1\n          Comments: Pursuant to K.S.A. 40-955(i) and K.S.A. 40-216 personal lines filings must be on file for 30 days before becoming\neffective. Please provide an effective date requested for new business."
+            }
+        },
+        "group_code": 111,
+        "company_codes": [
+            24740
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "KS_LBPM-134409706": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/17/2025",
+                "objection1": "Objection 1\n          - EXPANDED REPLACEMENT COST ENDORSEMENT, FMHO 1182 , 01 25 (Form)\n          - OPTIONAL LOSS SETTLEMENT ENDORSEMENT, FMHO 547 , 01 25 (Form)\n          - HOMEPROTECTOR PLUS ENDORSEMENT, FMHO 1199 , 01 25 (Form)\n          - Mock Ups (Supporting Document)\n          Comments: Please advise if the current rates contemplate the coverage which would be excluded by the proposed change in\ncoverage.  Such explanation is necessary as a restriction of coverage is tantamount to a rate increase which may result in an\nexcessive premium rate level unless a corresponding rate decrease is filed, pursuant to KSA 40-954.",
+                "objection2": "Objection 2\n          - Forms List Template (Supporting Document)\n          Comments: It appears the forms list provided may be incomplete. Please advise if these are the only forms that have been\npreviously approved for use for this program. If not, please revise the form list accordingly.  This is necessary to determine\ncompliance with K.S.A. 40-216. It does not appear that form FMHO 547 is included on either set of forms list."
+            }
+        },
+        "group_code": 111,
+        "company_codes": [
+            42404,
+            23035,
+            33600
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "KY_ALSE-134398573": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            19232
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "KY_ALSE-134398945": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            17230
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "KY_USAA-134421819": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/24/2025",
+                "objection1": "With regard to the above referenced filing, some areas appear to be noncompliant with Kentucky law. These areas include, but\nare not limited to, the following:\n     Objection 1\n          - SPECIAL ROOF COVERAGE, HO-IBHS, 01-25 (Form)\n          Comments: On page 3 of 3, under Item e., your form states: \"If you elect not to make a Special Roof Coverage upgrade in the\ncourse of necessary replacement of the damaged roof, we will settle the loss to such property in accordance with the applicable\nterms and conditions of this policy, excluding this endorsement.\" However, KRS 304.12-190(2) says, no person shall willfully collect\nas premium or charge for insurance any sum in excess of the amount actually expended or in due course to be expended for\ninsurance applicable to the subject on account of which the premium was collected or charged."
+            }
+        },
+        "group_code": 200,
+        "company_codes": [
+            21253,
+            25941,
+            25968,
+            18600
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "LA_LBPM-134284450": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "10/17/2024",
+                "objection1": "Objection 1\n          - Last Action Letter (Supporting Document)\n          Comments: The disposition submitted under Last Action Letter is State Tracking Number 918485.  The company should submit\nthe disposition of the most recent action taken for the Independent Homeowners Program.  Per our records, State Tracking Number\n942739 is the company's most recent action taken for the Independent Homeowners Program.\nPlease review and address.",
+                "objection2": "Objection 2\n          - Statement of Compliance (Rates and Rules) (Supporting Document)\n          Comments: On the Statement of Compliance, the Company Tracking Number should match the Company Tracking Number\nlisted in SERFF which is 24-LA-S-HO-RU-HMR 2.5-STORM-AMD.\nPlease revise and resubmit."
+            }
+        },
+        "group_code": 111,
+        "company_codes": [
+            24740
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "MI_ALSE-134422885": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            19240
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "MI_ALSE-134443416": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            11110
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "MI_LBPM-134437577": {
+        "objections": {},
+        "group_code": 111,
+        "company_codes": [
+            42404,
+            23035,
+            23043,
+            33600,
+            12484
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "MI_LBPM-134437587": {
+        "objections": {},
+        "group_code": 111,
+        "company_codes": [
+            23043,
+            12484
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "MN_ALSE-134409609": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            19232
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "MN_ALSE-134409640": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            37907
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "MN_AMSI-134380414": {
+        "objections": {},
+        "group_code": 155,
+        "company_codes": [
+            10872
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "MN_TRVD-G134202060": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "09/05/2024",
+                "objection1": "Please respond to the objection below by Sept. 13, 2024.\n     Objection 1\n          Comments: Clarification\nPlease explain why you have listed TRVD-134105308 as the SERFF Tracking Number of Last Filing. This filing is submitted under\nTOI 04.0, while the \"last filing\" was submitted under TOI 35.0. This filing shows 64,085 policyholders and $169,725,021.00 of written\npremium, while the earlier filing shows 310 policyholders and $96,555.00 of written premium. Clearly, the filings are not for the same\nproduct.\nYou will need to complete a post-submission update to revise the information on this filing's Rate/Rule Schedule tab to show the\ncorrect information."
+            }
+        },
+        "group_code": 3548,
+        "company_codes": [
+            38130
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "MO_LBPM-134358153": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/06/2025",
+                "objection1": "Objection 1\n          Comments: Would you be able to explain how such a large rate increase fits in with the companys business plan?",
+                "objection2": "Objection 2\n          Comments: How many policyholders will receive the very high Maximum % Change of 28.000%?  How do you plan to keep\ncustomers, with such a large rate increase?  Have you prepared to lose any because of this?",
+                "objection3": "Objection 3\n          Comments: As this is such a large maximum % change for a personal line increase, the Department may receive consumer\ncalls regarding why their rates increased so much. In order for us to better explain to the public or anyone receiving that high amount\nas to why this increase was necessary/justified, please provide a paragraph to summarize what the general reasons for the proposed\nincrease.\nPlease provide a breakdown of how many policyholders will see the different increase amounts.  For example, how many will see\nincreases of over 5%? How many will see over 10%? 15%?... etc.",
+                "objection4": "Objection 4\n          Comments: With such a large difference between the Overall Indicated % Change and the Overall % Rate impact, how has it\nbeen ensured these rates will not be inadequate?",
+                "objection5": "Objection 5\n          - Condominium Rating Manual, Base Rate Unity (Rate)\n          Comments: Regarding: Territory\nCould you please detail how each territory is determined?"
+            }
+        },
+        "group_code": 111,
+        "company_codes": [
+            19690
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "MO_LBPM-134364067": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/10/2025",
+                "objection1": "Objection 1\n          Comments: How many policyholders will receive the very high Maximum % Change of 36.600%?  How do you plan to keep\ncustomers, with such a large rate increase?  Have you prepared to lose any because of this?",
+                "objection2": "Objection 2\n          Comments: As this is such a large maximum % change for a personal line increase, the Department may receive consumer\ncalls regarding why their rates increased so much. In order for us to better explain to the public or anyone receiving that high amount\nas to why this increase was necessary/justified, please provide a paragraph to summarize what the general reasons for the proposed\nincrease.",
+                "objection3": "Objection 3\n          Comments: With such a large difference between the Overall Indicated % Change and the Overall % Rate impact, how has it\nbeen ensured these rates will not be inadequate?",
+                "objection4": "Objection 4\n          - Rating Manual, Territory Unities (Rate)\n          - Rating Manual, Territory Base Unity (Rate)\n          Comments: Regarding: Territory\nCould you please detail how each territory is determined?",
+                "objection5": "Objection 5\n          - Rating Manual, Home Package Unities (Rate)\n          Comments: Regarding: Coverage Level Unity\nCould you please detail how each is determined?"
+            }
+        },
+        "group_code": 111,
+        "company_codes": [
+            24740
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "MO_TRVD-G134325887": {
+        "objections": {},
+        "group_code": 3548,
+        "company_codes": [
+            38130
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "NC_USAA-134418343": {
+        "objections": {},
+        "group_code": 200,
+        "company_codes": [
+            25941
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "NC_USAA-134418345": {
+        "objections": {},
+        "group_code": 200,
+        "company_codes": [
+            25968
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "NC_USAA-134418351": {
+        "objections": {},
+        "group_code": 200,
+        "company_codes": [
+            18600
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "NC_USAA-134418355": {
+        "objections": {},
+        "group_code": 200,
+        "company_codes": [
+            21253
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "ND_GMMX-134414147": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            15130
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "ND_GMMX-134414190": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            15130
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "ND_GMMX-134414199": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            15130
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "NE_TRVD-G134437855": {
+        "objections": {},
+        "group_code": 3548,
+        "company_codes": [
+            19062,
+            19070,
+            27998,
+            25666,
+            36137,
+            38130
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "NJ_LBPM-134367579": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/19/2025",
+                "objection1": "For the review of the referenced filing we will require answers to the following questions/concerns.\n     Objection 1\n          - Explanatory Memorandum (Supporting Document)\n          Comments: Being that the revisions are being made to align with other policies, please explain why the following is not included\nin Your Duties to Maintain Policy Limits as found in the other policies:  \"These suggestions will be made effective on the renewal of\nyour policy and will be based upon average factors for your area supplied to us by recognized appraisal agencies.\""
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "02/19/2025",
+                "objection1": "For the review of the referenced filing we will require answers to the following questions/concerns.\n     Objection 1\n          - SPECIAL PROVISIONS - NEW JERSEY, CHO-6104NJEP, 3/25 (Form)\n          Comments: Your filing description states that \"In accordance with New Jersey's filing provision, we are submitting the following\nrevisions to our property lines Renter/Condo programs.\"\nPlease confirm that the form being revised is for your Renters Program approved under Dept. File #20-0070.  That filing indicates that\n\"Condo forms will be filed at a later date.\""
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "01/15/2025",
+                "objection1": "Objection 1\n          Comments: Please explain the reasons/intent behind the proposed revisions. Identify if the revisions are comparable to similar\ncompany forms, Bureau Forms (e.g. ISO), or any competitor forms.\n(Company forms developed using bureau form templates should include a mark-up of the bureau form illustrating the company-\nspecific changes.)",
+                "objection2": "Objection 2\n          Comments: Please explain if you are aware of any competitors suggesting annual changes to policy limits which would then be\neffective on renewal with the insured's payment. How is the insured being notified in the renewal?",
+                "objection3": "Objection 3\n          Comments: Please explain if you are aware of any other competitors using the \"economically repairable \" language for cash\nvalue.  If not, was the language developed by an outside party, developed in-house between product, underwriting, claims, legal,\ndeveloped/required by a reinsurer, etc.?\nPlease provide a definition of \"economically repairable.\""
+            }
+        },
+        "group_code": 111,
+        "company_codes": [
+            24740
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "NM_TRVD-G134428427": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/24/2025",
+                "objection1": "The review of the referenced filing will be held in abeyance until the response(s) to the following have been received.\n     Objection 1\n          - Filing Memorandum (Supporting Document)\n          Comments: Please provide redline documents showing changes being made."
+            }
+        },
+        "group_code": 3548,
+        "company_codes": [
+            19062,
+            19070,
+            27998,
+            25666,
+            36137,
+            38130
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "NV_AMSI-134209900": {
+        "objections": {},
+        "group_code": 155,
+        "company_codes": [
+            10872
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "NV_HART-134384733": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/20/2025",
+                "objection1": "Objection 1\n          -",
+                "objection2": "Objection 2 Response (Supporting Document)\n          Comments: Thank you for providing the details of the surcharge. The Hartford companies will need to document this surcharge\nin the Rule Manual. This rule must include when the surcharge applies, its payment structure, and the vendor name. Since a\nconsumer will be subject to this surcharge as a result of purchasing a policy and electing to pay some particular way, the surcharge\nneeds to be documented in the filed Rule Manual and is subject to the Division's prior-approval authority."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "02/06/2025",
+                "objection1": "Objection 1-1, if the company requires an update to the rate pages in addition to the rule\npages, then this filing will need to be withdrawn and resubmitted as a Rate/Rule filing.",
+                "objection2": "Objection 2\n          -",
+                "objection3": "Objection 3\n          Comments: As stated in the previous"
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "01/22/2025",
+                "objection1": "This filing is disapproved pending resolution of the following objections.\n     Objection 1\n          Comments: Please submit the updated rule page(s) which reflect the change to the credit card surcharge. This rule should\nspecify the payment structure. If rate pages are affected as well, then this filing will need to be withdrawn and resubmitted as a\nrate/rule filing and the appropriate page(s) of the rate pages will need to be submitted."
+            }
+        },
+        "group_code": 91,
+        "company_codes": [
+            37478,
+            38261,
+            30104,
+            34690,
+            27120,
+            22357,
+            19682
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "NV_HART-134433449": {
+        "objections": {},
+        "group_code": 91,
+        "company_codes": [
+            30104,
+            27120
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "OR_ALSE-134413946": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            19232
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "OR_ALSE-134413977": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            19240
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "OR_ALSE-134417934": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            19232
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "OR_ALSE-134417942": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            19240
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "OR_ALSE-134417973": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            37907
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "OR_ALSE-134418009": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            17230
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "OR_ALSE-134418028": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            19240
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "PA_LEMO-134412814": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/26/2025",
+                "objection1": "Objection 1\n          - Notice of Cancellation of Insurance, LEM-PA-NOTICE01, (02-25) (Form)\n          - Notice of Non-Renewal of Insurance, LEM-PA-NOTICE02, (02-25) (Form)\n          Comments: Change the form type on the form schedule to CNR",
+                "objection2": "Objection 2\n          - Notice of Cancellation of Insurance, LEM-PA-NOTICE01, (02-25) (Form)\n          - Notice of Non-Renewal of Insurance, LEM-PA-NOTICE02, (02-25) (Form)\n          Comments: (1)  The form shall be clearly labeled: Notice of Cancellation or Refusal to Renew.\n(9)  Each provision of the notice shall be set forth in clear and understandable terms. To assure adequate notice, the form label shall\nbe set at the top of the form in roman type no smaller than 14 point modern type, all capitals. The remainder of the notice shall be set\nin roman type no smaller than ten point modern type, two points leaded.\n31 Pa. Code § 59.6. Notice of cancellation or refusal to renew; requirements.\nCorrect the form title on both of these forms to show:\nNOTICE OF CANCELLATION OR REFUSAL TO RENEW",
+                "objection3": "Objection 3\n          - Notice of Cancellation of Insurance, LEM-PA-NOTICE01, (02-25) (Form)\n          - Notice of Non-Renewal of Insurance, LEM-PA-NOTICE02, (02-25) (Form)\n          Comments: (3)  The date, not less than 30 days after the date of delivery or mailing, on which such cancellation or refusal to\nrenew is to become effective shall be clearly indicated.\n31 Pa. Code § 59.6. Notice of cancellation or refusal to renew; requirements.\nAdd a mailing date field to these cancellation notices.\nWe note there is a \"date sent\" field under the cancellation reason field on LEM-PA-NOTICE01 (02-25), however, that would only\napply in a non-pay cancellation situation."
+            }
+        },
+        "group_code": 5032,
+        "company_codes": [
+            16023
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "RI_LBPM-134392464": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/03/2025",
+                "objection1": "The following issues must be addressed before the review of your filing can be completed.\n     Objection 1\n          - SPECIAL PROVISIONS — FUNGI, WET OR DRY ROT, OR BACTERIA, CHO-6104/RIEP , 4/25 (Form)\n          Comments: Please explain why this is filed as a PCF (Policy Coverage Form) filing versus an END (Endorsement) filing."
+            }
+        },
+        "group_code": 111,
+        "company_codes": [
+            24740
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "SC_AMSI-134171194": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/11/2025",
+                "objection2": "Please comment further on the company's response to objection #3 in my previous letter. While the Department understands that a\nchanging geographical mix of business has influence on the indication, the company's reinsurance and CAT loads are relatively\nconstant. Moreover, since Q2 2023, the geographical mix of business has remained relatively constant, too. In short, the company's\nnarrative does not appear to align with the data provided. Please further defend the company's response."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "01/24/2025",
+                "objection2": "Please provide additional explanation on the steep premium trends.",
+                "objection3": "While we acknowledge that the company has used models for its wind/hail changes, prior year's filing was a +25.5%, and when\ncombined with the proposed +33.0% wind/hail change in this filing, it results in nearly a 70% increase. Please provide additional\ndetails, explanation, and/or justification that would help the Department feel more comfortable with this proposal, given the magnitude\nof this change."
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "01/03/2025",
+                "objection2": "Similarly to the objection above (#1), please revise and resubmit an updated version of the Development of Loss Adjustment\nExpense (Exhibit I-9). The most recent year supplied in the exhibit is 2022. Given that we are now in the year 2025, more recent data\nis required so as to more accurately reflect the company's expenses.",
+                "objection3": "The RLI Exhibit shows that the Present Level Factors are the same for each year (Exhibit I-4), but the company has taken rate\nmore times than it lists in the exhibit. Please rectify this discrepancy.",
+                "objection4": "Please explain the company's credibility standard and illustrate the calculations. Please include all necessary figures used (claim\ncount, exposure count, etc.).",
+                "objection5": "The company states that they use AIR Hurricane Model for the US v18.1.3, but the Hurricane Model Output Report shows that the\nmodel used is v18.1.4, a model not approved by the Department. Can the company confirm which model they used?"
+            },
+            "Objection_letter4": {
+                "objection_letter_date": "12/03/2024",
+                "objection2": "The SUM Exhibit does not match the exhibit provided in the explanatory memorandum. Please rectify this discrepancy or provide\nexplanation for the differences.",
+                "objection3": "Please defend the company's position that modeled losses are 100% credible, as stated in the \"WH - RLI and EXP\" document in\nthe Property Actuarial Exhibits folder under the Supporting Documentation tab."
+            }
+        },
+        "group_code": 155,
+        "company_codes": [
+            10872
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "SC_LBPM-134400516": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/24/2025",
+                "objection1": "The Department has reviewed this filing and asks that the following item(s) be addressed:\nPolicy DeclarationsFMHO 3047 must contain the same exact language that appears in Regulation 69-56 C(2).  Please revise\naccordingly."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "02/20/2025",
+                "objection1": "The Department has reviewed this filing and asks that the following item(s) be addressed:\nPolicy DeclarationsFMHO 3047: This declaration does not appear to be in compliance with the requirements set forth by regulation\n69-56 C(2); the required language set forth by Regulation 69-56 C (2) must appear on the declaration unless the required language is\nprinted on the policy jacket. If the policy jacket is applicable, please provide the approved SERFF tracking number of the policy\njacket. If not, please amend the declaration page.  While the required language may be added by an amendatory endorsement, the\nreferenced regulation states that it shall appear on the declaration or policy jacket."
+            }
+        },
+        "group_code": 111,
+        "company_codes": [
+            42404,
+            23035,
+            23043,
+            33600,
+            12484
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "SC_LBPM-134401992": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/21/2025",
+                "objection1": "The Department has reviewed this filing and asks that the following item(s) be addressed:\nYour [Policy Type] Insurance Application PROP 0017:\nThe company must revise the application  to display \"120 days\", not \"90 days\" per the requirements set forth in Statute 38-75-1200."
+            }
+        },
+        "group_code": 111,
+        "company_codes": [
+            42404,
+            33600
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "SC_LBPM-134406290": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/28/2025",
+                "objection1": "It appears the revision is reducing the number of days for all non-renewals from 90 days to 60 days.",
+                "objection2": "While the law allows for the company to amend their nonrenewal time, and the coverages are not reduced, please be advised that\nthe endorsement changes the terms of the policy, therefore the company still has an obligation to notify current policyholders who\nmay be impacted by the change.",
+                "objection3": "Please confirm that the current policyholders will be notified in accordance with the renewal requirements set forth by Statute 38-\n75-750."
+            }
+        },
+        "group_code": 111,
+        "company_codes": [
+            23043,
+            12484
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "TN_HART-134429213": {
+        "objections": {},
+        "group_code": 91,
+        "company_codes": [
+            29424,
+            37478,
+            38261,
+            30104,
+            34690,
+            11000,
+            27120,
+            29459,
+            22357,
+            19682
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "TN_LBPM-134412900": {
+        "objections": {},
+        "group_code": 111,
+        "company_codes": [
+            24732,
+            24740,
+            24724
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "TN_LBPM-134434596": {
+        "objections": {},
+        "group_code": 111,
+        "company_codes": [
+            19690
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "TN_USAA-134436312": {
+        "objections": {},
+        "group_code": 200,
+        "company_codes": [
+            25941,
+            25968,
+            18600,
+            21253
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "TX_ALSE-133994457": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "04/11/2024",
+                "objection17": "For each third-party data set, the new rules require rate/rule filings to include the following information:\n(A) the name of the data vendor or source;\n(B) a description of the data, such as a data dictionary, that includes the name for each data element and the corresponding\ndefinition;\n(C) a description of how the data is used in ratemaking or otherwise used to determine rates or premiums; and\n(D) a list of the rating variables that reflect use of the data\nFor each third-party model, the new rules require rate/rule filings to include the following information:\n(A) the name of the model vendor or source;\n(B) the model name and version number;\n(C) a description of the model;\n(D) a description of the model input;\n(E) a description of how the model output is used in ratemaking or otherwise used to determine rates or premiums; and\n(F) a list of the rating variables that depend on the output of the model.\nPlease provide the above information for this program. Note that the new rules require rate/rule filings to provide information about all\nthird-party data sets and models in use, not just those that specifically relate to the filing at hand."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            37907
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "TX_ALSE-133994492": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "04/11/2024",
+                "objection17": "For each third-party data set, the new rules require rate/rule filings to include the following information:\n(A) the name of the data vendor or source;\n(B) a description of the data, such as a data dictionary, that includes the name for each data element and the corresponding\ndefinition;\n(C) a description of how the data is used in ratemaking or otherwise used to determine rates or premiums; and\n(D) a list of the rating variables that reflect use of the data\nFor each third-party model, the new rules require rate/rule filings to include the following information:\n(A) the name of the model vendor or source;\n(B) the model name and version number;\n(C) a description of the model;\n(D) a description of the model input;\n(E) a description of how the model output is used in ratemaking or otherwise used to determine rates or premiums; and\n(F) a list of the rating variables that depend on the output of the model.\nPlease provide the above information for this program. Note that the new rules require rate/rule filings to provide information about all\nthird-party data sets and models in use, not just those that specifically relate to the filing at hand."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            19240
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "TX_ALSE-133995002": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "04/11/2024",
+                "objection17": "For each third-party data set, the new rules require rate/rule filings to include the following information:\n(A) the name of the data vendor or source;\n(B) a description of the data, such as a data dictionary, that includes the name for each data element and the corresponding\ndefinition;\n(C) a description of how the data is used in ratemaking or otherwise used to determine rates or premiums; and\n(D) a list of the rating variables that reflect use of the data\nFor each third-party model, the new rules require rate/rule filings to include the following information:\n(A) the name of the model vendor or source;\n(B) the model name and version number;\n(C) a description of the model;\n(D) a description of the model input;\n(E) a description of how the model output is used in ratemaking or otherwise used to determine rates or premiums; and\n(F) a list of the rating variables that depend on the output of the model.\nPlease provide the above information for this program. Note that the new rules require rate/rule filings to provide information about all\nthird-party data sets and models in use, not just those that specifically relate to the filing at hand."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            26530
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "TX_GMMX-134436826": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            44369
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "TX_LBPM-134367508": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/10/2025",
+                "objection1": "Please respond by Monday.\n     Objection 1\n          - SPECIAL PERSONAL PROPERTY COVERAGE, HOM-7308/TXEP, 3/25 (Form)\n          Comments: On the form schedule tab for the endorsement above provide the correct replaced form number under the action\nspecific data section.\nHOM-7308EP does not match the previous filing form number HOM-7308/EP. The number contains a typographical error."
+            }
+        },
+        "group_code": 111,
+        "company_codes": [
+            19690
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "UT_LBPM-134409711": {
+        "objections": {},
+        "group_code": 111,
+        "company_codes": [
+            24740
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "VA_AMSI-134375543": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/11/2025",
+                "objection1": "Thank you for your time and objection response. However, the following issue will require your attention.\n     Objection 1\n          Comments: As requested in the first objection, please clarify on what date these forms stopped being written or renewed\n(produced) for insureds."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "01/24/2025",
+                "objection1": "Thank you for your submission. The following issues will require your attention.\n     Objection 1\n          Comments: In AMSI-134111672 and AMSI-133577868 the company was asked to withdraw these forms before 9/1/24, and to\nclarify if any insureds were still using these forms.\nPlease clarify when these forms stopped being produced and how many insureds were using the forms at that point."
+            }
+        },
+        "group_code": 155,
+        "company_codes": [
+            10872
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "VA_HART-134429350": {
+        "objections": {},
+        "group_code": 91,
+        "company_codes": [
+            29424,
+            37478,
+            38261,
+            34690,
+            27120,
+            29459,
+            19682,
+            30104
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "VA_TRVD-G134337488": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/21/2025",
+                "objection1": "Objection 1\n          Comments: Please include, as part of the rule/rate manual, a rate order of calculation which shows all the steps for how the\nfinal premium is calculated for an insured.",
+                "objection2": "Objection 2\n          - Rate/Rule Manual - Public, Rate/Rule Manual Pages (Rate)\n          Comments: Please provide the page numbers where the rates for HQ-290 VA and HQ-901 are included in the rate manual.",
+                "objection3": "Objection 3\n          - Rate/Rule Manual - Public, Rate/Rule Manual Pages (Rate)\n          Comments: Page 202.1:\nRemove D, as it appears to contradict the company's intent as outlined in Rule 109."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "12/23/2024",
+                "objection1": "Objection 1 in TRVD-G134317885\n\"The code representing the Auto Bodily Injury Limit is determined at the time the new business policy is issued. For example, if the\ncustomer had 50/100 prior to 11/17/2024, they would be rated with code B and this will not change to code A at renewal (even if they\nrenew after 11/17/2024). Therefore, an insured would not experience a premium increase at renewal for this variable as a result of\nthis change. For this reason the rule of application in the filing is only applicable to New Business and states there is a 0% impact. \"\nIt is the position of the Bureau that if prior BI limits are used and the insured increases or decreases those limits, the homeowners\nrating must be adjusted accordingly. Amend the rule to clarify the same.",
+                "objection2": "Objection 2\n          Comments: The following objection is response to",
+                "objection3": "Objection 3\n          Comments: Please confirm that the coverage for Additional Replacement Cost Protection is always at the option of the insured\nand that it is not a requirement that all policies carry this coverage.\nAdditionally, please clarify whether the company's loss estimating software includes in the initial ACV payment a deduction for labor\nand taxes."
+            }
+        },
+        "group_code": 3548,
+        "company_codes": [
+            38130
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "WA_GMMX-134441494": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            10358
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    },
+    "WV_AMSI-134244221": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/21/2025",
+                "objection1": "Good morning,\nFor this rule:\n Rule Number: R303\nPage Number: R303-1\nRule Section: ADDITIONAL FEES & CALCULATIONS\nRule Name: MINIMUM EARNED PREMIUM\nRevised: 2025-08\nMINIMUM EARNED PREMIUM\nA minimum premium of $50 is earned on each policy regardless of how long the policy is in force.\nIf it is a new business policy and the company cancels it flat in the first 30 days due to underwriting, will you give a full refund?"
+            }
+        },
+        "group_code": 155,
+        "company_codes": [
+            10872
+        ],
+        "download_week": "2025-03-03T00:00:00"
+    }
+}

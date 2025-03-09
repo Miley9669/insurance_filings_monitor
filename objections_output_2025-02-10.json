@@ -1,0 +1,543 @@
+{
+    "AK_ALSE-134341177": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "12/16/2024",
+                "objection1": "Since adequate support has not been provided for the director to determine if the filing meets the requirements of AS 21.39,\nthe waiting period in AS 21.39.220(b) has not commenced and the proposed effective date may not comply with the waiting period\nrequirement. If necessary, a new effective date must be requested in your response, which must again allow for at least a 30-day\nwaiting period following its receipt by the division.\nThe response must identify any changes to the filing; see 3 AAC 31.210(p).  If the revisions have impacted the rate level impacts\nrequired to be reported in the transmittal document per 3 AAC 31.225(c)(2) and (3), the revised impacts must be provided as required\nby 3 AAC 31.225(e).\nIf neither a response nor a written request for a 15-day extension is received within 30 days from the date of this letter, the division\nwill disapprove the filing and the filing shall not become effective.  A response received after the expiration of the response period\nmust be a complete resubmission of the filing, which specifically addresses the above questions and comments and references the\ntracking number; 3 AAC 31.210(i).  The response must be received before 3:00pm Alaska time (6:00pm Central) on the due date.\nIf a response is received after 3:00 pm Alaska time (6:00 pm Central) or on a weekend or state holiday, the receipt date is the next\nworking day as required by 3 AAC 31.205(b).  Therefore, when the due date falls on a weekend or state holiday, the response must\nbe submitted no later than 3:00pm on Friday or 3:00pm of the working day before the state holiday.\n     Objection 1\n          Comments: Although the Overall % Rate Impact is 4.100%, it is indicated that the maximum rate increase is 11.00%. Please\nprovide a histogram and provide the characteristics of the insured(s) receiving the maximum rate increase."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            19232
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "AZ_SFMA-134391751": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/31/2025",
+                "objection1": "The Department has reviewed the filing and has the following interrogatories/objections.\nAs submitted filing does not comply with Arizona statutes and/or administrative code.  While grounds exist to disapprove the filing, we\nare providing you with an opportunity to resolve the objections or to withdraw the filing.  If neither occurs, we will disapprove or reject\nthe filing as ambiguous, misleading or deceptive or otherwise failing to comply with Arizona law.  The objections are:\n     Objection 1\n          - Manual Pages, See Attached (Rate)\n          Comments: Please provide the redlines under the supporting documents tab. [PC9999]"
+            }
+        },
+        "group_code": 176,
+        "company_codes": [
+            25143
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "CA_ALSE-133973140": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/27/2025",
+                "objection1": "What would be the new effective date for the proposed rate filing if the filing can be approved in this week?"
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "01/21/2025",
+                "objection1": "Would Allstate consider opening to new business anytime soon on the book?"
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "01/03/2025",
+                "objection1": "4%, respectively.",
+                "objection2": "Please confirm that 2) is trended. If it is, please provide detailed calculations on how it is trended, and what trend is used.",
+                "objection3": "Please provide a hypothetical exhibit 15, with 1) and 3) using a severity trend of 8.4% and AIY trend of 1.4%, rather than 9.6% and"
+            },
+            "Objection_letter4": {
+                "objection_letter_date": "12/17/2024",
+                "objection1": "For exhibit 15, please provide justification for the application of severity trend and AIY trend to 1) and 3), when no trend was\napplied in the losses to AIY in the cat adjustment factor calculation."
+            },
+            "Objection_letter5": {
+                "objection_letter_date": "11/20/2024",
+                "objection1": "For FFEQ, please provide the AIR risk management report."
+            },
+            "Objection_letter6": {
+                "objection_letter_date": "11/13/2024",
+                "objection1": "For FFEQ model provision, are there other wildfire model outside of Verisk Touchstone that you are licensed with, but not\nconsidered in exhibit 14? If so, why is that the case?",
+                "objection2": "Are there any new Brushfire Underwriting Restriction, for new business or renewal business?",
+                "objection3": "Are there any block non-renewal expectations planned?",
+                "objection4": "Please provide a full copy of the current and proposed manual."
+            },
+            "Objection_letter7": {
+                "objection_letter_date": "09/24/2024",
+                "objection1": "Please provide a complete version of the current, proposed and marked-up version of the manual.",
+                "objection2": "In exhibit 14, please verify that the selected premium change revolving around the variable package premium is with regards to the\nbase rate change, and the additional coverage selected premium change is with regard to the coverage A change.",
+                "objection3": "Please provide additional quantitative support on how you derived the figures in exhibit 14.",
+                "objection4": "In exhibit 15, please provide details on how row 5) (ULAE provision) and 6) (Variable expense and profit ratio) are calculated",
+                "objection5": "What unit is being counted for historical experience credibility and trend credibility? What is the credibility standard for experience,\nand for trend?",
+                "objection6": "Going forward, please provide an effective date in rate application page 4, similar to page 1 in rate template",
+                "objection7": "The Paid Claim Counts + Closed With No Payment Claim Counts development triangle is equal to the Reported Claim Counts\ndevelopment triangle for this coverage/form/program in the Standard Exhibits Template. Paid Claims + Claims Closed With No\nPayment should theoretically include only open paid claims, closed paid claims, and claims closed without payment; Reported\nClaims, however, include the aforementioned claim types as well as open unpaid claims. Therefore, I expect Paid Claim Counts +\nClosed With No Payment Claim Counts to *not* be a 100% match with Reported Claim Counts. Please correct your data, or provide\nan explanation."
+            },
+            "Objection_letter8": {
+                "objection_letter_date": "07/17/2024",
+                "objection1": "Objection 1\n          - New Prior Approval Rate Application (Supporting Document)\n          Comments: Were there any changes to case reserving practices or mix of business between 2022 and 2023? We noticed the\naverage case reserve increased sharply for the fiscal accident year data ending 2022Q2 to 2023Q2 at the 12-month development.\nOn a slightly related note, your exhibit 7 memorandum says that paid development is less responsive than incurred since it lacks\ncase reserve estimates. What is driving the increase in case reserves in recent periods, and do you expect this to continue? (Please\ncomment also for the period between 2021 and 2022 as well since the case reserves and open claims had a noticeable decrease and\nthen rebounded in 2023.)"
+            },
+            "Objection_letter9": {
+                "objection_letter_date": "03/28/2024",
+                "objection1": "Our records indicate that the deemer date for this filing is April 23,2024. In order for us to complete our review, we request a\nwaiver of the deemer.\nWe ask that Allstate Insurance Company submits a SERFF note with the wording below to waive the deemer provisions:\nRegarding the above-referenced rate application, Allstate Insurance Company (\"applicant\") hereby waives all deemer provisions of\nCalifornia Insurance Code Section 1861.05, specifically, the 60-day deemer and the 180-day deemer. If the applicant wishes to\nreactivate the deemer provisions, the applicant will make its request in writing to the Department of Insurance Rate Filing Bureau, Los\nAngeles, California. Upon reactivation, the 60-day deemer will resume five days after the Department's receipt of the applicant's\nrequest to reactivate the deemer, on day 34, and the 180-day deemer will resume five days after the Department's receipt of the\napplicant's request to reactivate the deemer, on day 57."
+            },
+            "Objection_letter10": {
+                "objection_letter_date": "02/15/2024",
+                "objection1": "The group name should match between SERFF, the application, and the Affidavit. Please revise the group name field to \"\nAllstate insurance Group\" in SERFF under the \"Companies and Contact\" tab."
+            },
+            "Objection_letter11": {
+                "objection_letter_date": "02/14/2024",
+                "objection1": "The group name should match between SERFF and the Affidavit. Please make the necessary changes.",
+                "objection2": "Please upload a filing memorandum and an actuarial memo to this filing.",
+                "objection3": "Submit the current manual pages.",
+                "objection4": "Why weren't copies of the reinsurance agreements submitted in this filing?",
+                "objection5": "Please acknowledge that during the course of review for this filing, you may be asked to resubmit Exhibit 20 in the attached sample\nformat."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            19232
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "CT_ALSE-134371730": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/10/2025",
+                "objection2": "COVERAGE A - BUILDING PROPERTY PROTECTION INCREASED LIMITS ADDITIONAL PREMIUM PER $1,000 OF\nINCREASED COVERAGE A BASE DEDUCTIBLE\na.Please provide a narrative and examples for the Additional Coverages  Coverage A.  We are not understanding what this coverage\nis. Please provide rule pages to explain what this is as well. Is this an endorsement that is available? Is this on every policy?\nb.Does all policyholders get the 29.8% increase for this in this filing? Please provide example to demonstrate 3 different scenarios if\nthe answer is no.\nc.Please provide an actuarial explanation of a reconciliation from this same analysis proposed in the prior filing of 15.6% to this\nchange of 29.8%. Please explain why this is increasing so much?  If this item was adequate with the last rate change, and now the\nvariable premiums are only increasing 1.2% why is this changing so much; why wouldnt this item be need rate adequate or not\nnearer to the 1.2% change?\nd.We are not understanding if a full Coverage A analysis or a full deductible analysis is needed. We are not understanding how you\nmethodology is adjusting for both aspects of this. Obviously, the size of this increase is worrisome.",
+                "objection3": "Inflationary Automatic Coverage A increase\na. For the proposed effective date, what would be the additional premium the company would get only from the automatic inflationary\nCoverage A increase on condo upon renewal?. This additional premium we would expect calculated based on the current rates, not\nthe proposed rates.\nb. Please describe and provide exhibits to demonstrate how this Coverage A increase have been reflected in your premium trends\nand your rate level indications. Also discuss if you have changed your Coverage A relativities as a result of this increase/change.\nPlease explain how the increase in coverage A  complies with our statutes and homeowners checklist to not exceed 8% a year\nc. Please explain how the increase in coverage A  complies with our statutes and homeowners checklist to not exceed 8% a year.\nd. Please explain how this automatic increase in coverage A relates to your COVERAGE A - BUILDING PROPERTY PROTECTION\nINCREASED LIMITS ADDITIONAL PREMIUM PER $1,000 OF INCREASED COVERAGE A BASE DEDUCTIBLE.\nIf you would like to discuss this further, please reach out to me at susan.gozzo.andrews@ct.gov Susan Gozzo Andrews, FCAS,\nSERFF Tracking #: ALSE-134371730\nState Tracking #: 202500100\nCompany Tracking #: R57955: RC (+4.1%)\nState:\nConnecticut\nFiling Company:\nAllstate Insurance Company\nTOI/Sub-TOI:",
+                "objection04": "0 Homeowners/04.0001 Condominium Homeowners\nProduct Name:\nAIC CON\nProject Name/Number: RC (+4.1%)/RITM06359300\nPDF Pipeline for SERFF Tracking Number ALSE-134371730 Generated 02/04/2025 11:32 PM\n\nMAAA, RPLU+, PIR."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "01/10/2025",
+                "objection1": "Please review the following comments and respond accordingly.\n     Objection 1\n          Comments: Please provide the Complete Rate Manual.         This is needed for every filing.\nPlease provide the Rate Order of Calculation,     If this in not included in the Rate Manual, please provide separately then."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            19232
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "ID_ALSE-134355105": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            37907
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "KY_LBPM-134398598": {
+        "objections": {},
+        "group_code": 111,
+        "company_codes": [
+            19690
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "KY_TRVD-G134354905": {
+        "objections": {},
+        "group_code": 3548,
+        "company_codes": [
+            38130
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "KY_TRVD-G134354974": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/16/2025",
+                "objection1": "Please find attached the objection letter."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "01/08/2025",
+                "objection1": "With regard to the above referenced filing, some areas require additional clarification. Please see attached."
+            }
+        },
+        "group_code": 3548,
+        "company_codes": [
+            38130
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "MA_TRVD-134135642": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/16/2025",
+                "objection1": "The Division has assessed this filing submission, and has determined that additional documentation, clarification, or changes to\nthe documents submitted are required in order for our review to continue. Please respond, therefore, to the following Objections in\naccordance with SERFF procedures for responding to an Objection Letter.\nPlease see Part 6 of the Massachusetts General Instructions for further guidance on the proper procedure for responding to\nObjections.\nPlease update Item No. 10 Supplemental Rates page 2 Rate Adjustment factors in the Rate/Rule Schedule tab on SERFF based on\nthe revised Rate Adjustment factors described in your 1/16/25 response to 2nd objection."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "01/16/2025",
+                "objection1": "Please provide an overall rate impact exhibit for owners and LL that reconciles the proposed changes in base rates, and all other\nrating variables combined, including the updated variables referenced in Actuarial Memo, and the newly introduced roof score.",
+                "objection2": "Since the overall rate impact is revised from 12% to 7.5%, what changes have been made to base rates or rating factors to result\nin such change? It seems that no changes have been made to base rates, or any factors in rates/rules on SERFF. Please review and\nadvise."
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "09/24/2024",
+                "objection1": "If a policyholder has made tree removals round the house, or replaced the roof recently, which is too new to be captured/updated in\nthird party vendor’s database, how Travelers would handle such situations in rating? In what situations a price adjustment will be\nallowed/granted? If any price adjustment is made, would the adjustment be retrospective to the date that the policyholder made the\nchange or be made at the time of notice from policyholder? Please comment on situations of new business and renewal business\nrespectively.",
+                "objection2": "Is there any underwriting change as per the use of aerial images: decline of new business, non-renewal or cancellation? If so,\nplease describe the conditions for each category. Also please comment any change in underwriting decision due to the mismatch\nissue in objection 1).",
+                "objection3": "Please describe how Traverlers would handle the situation that a policyholder disputes about the category assigned or underwriting\ndecision based on aerial images of the policy."
+            },
+            "Objection_letter4": {
+                "objection_letter_date": "08/27/2024",
+                "objection1": "Please provide Travelers’ MA HO Quantum 2.0’s coastal earned exposures by form in rolling accident year ending 12/31 for both\n2022 and 2023.",
+                "objection2": "Please provide Travelers’ MA HO Quantum 2.0’s average earned premium by form for the peril of Hurricane for rolling accident\nyear ending 12/31 for both 2022 and 2023.",
+                "objection3": "3 Yr. Expense Exhibit 2020-2022: please update the exhibit to include calendar year 2023 data.",
+                "objection4": "Rate Adjustment Factors: please clarify on which set of base rates (SERFF# of that filing) the RAF are applied."
+            },
+            "Objection_letter5": {
+                "objection_letter_date": "07/26/2024",
+                "objection1": "Please provide the average annual coverage A value for owners forms of Quantum 2.0 program for accident years ending 12/31 of\n2020, 2021, 2022, and 2023 respectively.",
+                "objection2": "Please provide the average annual adjustment to coverage A values in each of the past four years. Please also provide an\nestimate of the total proportion of owners premium that is subject to such adjustments.",
+                "objection3": "Please provide actuarial supports for the proposed changes in the factors updated referenced in first page of Actuarial\nMemorandum: if loss ratio relativity, or GLM, or any other analysis done contributing to such changes.",
+                "objection4": "Roof Score: please provide a brief description of how the score is determined, including any GLM database, methodology, lift\ncharts if applicable.",
+                "objection5": "Are aerial images used in Roof Score? If so, please provide a list of rating variables which use aerial images to determine a risk’s\ncondition or category, and a brief description/summary of how such images are used to determine the risk scores."
+            },
+            "Objection_letter6": {
+                "objection_letter_date": "06/24/2024",
+                "objection1": "The Massachusetts Division of Insurance (the \"Division\") has concluded initial administrative review of this filing submission.\nThis filing is referred to the State Rating Bureau for actuarial review. In the interim, please respond, in accordance with SERFF\nprocedures for Responding to an Objection Letter, to the following objection:\nPlease refer to Part 6 of the Massachusetts General Instructions for further guidance on the proper procedure for responding to\nObjections.\n     Objection 1\n          - Annotated Comparison (Supporting Document)\n          Comments: ANNOTATED COMPARISON\nRegarding Item No. 1, please be advised that the annotated attachment \"MA QH2 Rule 301_mock up eff 111724.pdf\" is not an\naccurate annotation of the actual prior version from Previous Filing Number TRVD-131708389 (i.e., there were no changes to\nfooter/edition date, etc.).\nPlease refer to the final attachment, which already reflects an updated footer/edition date.\nPlease update and replace \"MA QH2 Rule 301_mock up eff 111724.pdf\", ensuring to update the naming convention of the pdf\nattachment itself."
+            }
+        },
+        "group_code": 3548,
+        "company_codes": [
+            19062,
+            27998,
+            28188,
+            38130,
+            36145
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "MD_AMSI-134128669": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "02/05/2025",
+                "objection1": "Please provide a distribution by region of your policyholders.\nThank you,\nWalter Dabrowski, FCAS, MAAA\n410-468-2388"
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "09/16/2024",
+                "objection1": "Please provide support for the Profit Load of 13.0% in Exhibit I-1, line 20. Provide an exhibit that shows the details of the\ncalculation of the profit load. Include the target return on surplus, investment income on surplus, investment income on loss and LAE\nreserves and investment income on unearned premium reserves if applicable.",
+                "objection2": "Provide the data in support of the frequency, severity and pure premium trends in Exhibit I-3.",
+                "objection3": "Provide the data in support of the premium trends in Exhibit I-4.",
+                "objection4": "Provide your answers to the questions asked by the PICD actuary.",
+                "objection5": "Provide the most recent ten years (or most recent available) of combined ratio information by year.\nThank you,\nWalter Dabrowski, FCAS, MAAA\n410-468-2388"
+            }
+        },
+        "group_code": 155,
+        "company_codes": [
+            10872
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "ME_SFMA-134246231": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/28/2025",
+                "objection1": "Thank you for your recent SERFF submission.  However, it cannot be approved for use in Maine at this time.  Please review\nand respond to the following objection(s).\n     Objection 1\n          Comments: Please be advised that State Farm submitted this filing via the File and Use method on 10/4/2024, per the\nCompanys understanding of Title 24-A, §2304-A. Consistent with the File and Use method and requirements to file not less than 30\ndays before the effective date in the statute, we processed the revised rates on 12/15/2024 to be available for use for new business\non 1/15/2025 and renewal business on 3/15/2025. With our revised rates currently implemented after the 30 days the superintendent\nhas to act, we will continue with our originally communicated effective dates of 1/15/2025 and 3/15/2025, respectively. If the Bureau\nbelieves that State Farm has misinterpreted the states filing laws, please provide what authority the Bureau is relying on, and we\nwould be welcome to arrange a call to further discuss your request.\nThe superintendent did act in the form of objections. Maine is a file for approval with a 30 deemer clause not \"file and use\". Title 24-A,\n§2304-A. states that filing will be made public once they are approved. Section 5 carves out only specially rate inland marine risks\nwhich is not what this filing is. The SERFF rules making this clear are below.\nAvailable Filing Modes:\nPrior Approval\n 24-A M.R.S. §§ 2304-A and 2412 state that filings are to be made no less than 30 days in advance of their stated effective/delivery\ndate.\n Filings may be deemed approved if the filing is not acted upon within 30 days. Acted upon means approved, disapproved, rejected,\nwithdrawn, an objection letter, an extension granted, or there has been a request for additional information\nPlease update this filings effective date so I can approve it."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "01/17/2025",
+                "objection1": "Thank you for your recent SERFF submission.  However, it cannot be approved for use in Maine at this time.  Please review\nand respond to the following objection(s).\n     Objection 1\n          Comments: Please update the effective date of this filing so I can approve it."
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "12/30/2024",
+                "objection1": "Objection 1\n          - Response to 12-5 Objection (Supporting Document)\n          Comments: RE: Revised Exhibit 1G\nPlease provide justification for Wind/Hail Loss Trend selections. Specifically, the Selected Prospective Frequency seems overstated\nas all credibility-weighted trends are negative.",
+                "objection2": "Objection 2\n          - Response to 12-5 Objection (Supporting Document)\n          Comments: RE: Revised Exhibit 1G\nPlease provide justification for OEC Loss Trend selections. Specifically, the Selected Prospective Frequency trend seems overstated.",
+                "objection3": "Objection 3\n          - Response to 12-5 Objection (Supporting Document)\n          Comments: RE: Objection responses\nSupplemental Exhibit Y shows the details of this credibility methodology along with a hypothetical example.\nSupplemental Exhibit & shows the details of this credibility methodology along with a hypothetical example\nNeither of these exhibits appear to be attached. Please provide them.",
+                "objection4": "Objection 4\n          - Response to 12-5 Objection (Supporting Document)\n          Comments: RE: Objection Response 3\nPlease also provide the model versions and inputs.",
+                "objection5": "Objection 5\n          - Response to 12-5 Objection (Supporting Document)\n          Comments: RE: Supplemental Exhibit 2E\nPlease provide justification for Selected Prospective Premium Trend of -0.3%.",
+                "objection6": "Objection 6\n          - Response to 12-5 Objection (Supporting Document)\n          Comments: RE: Supplement Exhibit 2F\nPlease provide justification for Fire-Lightning and Wind/Hail Selected Historical Severity trends.",
+                "objection7": "Objection 7\n          - Response to 12-5 Objection (Supporting Document)\n          Comments: RE: Supplemental Exhibit 2P\nWhy does this say Iowa?\nSERFF Tracking #: SFMA-134246231\nState Tracking #:\nCompany Tracking #: HO-47216\nState:\nMaine\nFiling Company:\nState Farm Fire and Casualty Company\nTOI/Sub-TOI:\n04.0 Homeowners/04.0000 Homeowners Sub-TOI Combinations\nProduct Name:\nHO-47216\nProject Name/Number: HO-47216/HO-47216\nPDF Pipeline for SERFF Tracking Number SFMA-134246231 Generated 02/05/2025 01:59 AM",
+                "objection8": "Objection 8\n          - Response to 12-5 Objection (Supporting Document)\n          Comments: RE: Supplemental Exhibit 2O\nPlease provide underlying support for the following:\nULAE (28.5%)\nAIY Trend (1.9%)\nCW Projected 5yr LR (77.6%)\nME VE Ratio (8.2%)\nCredibility (0.50)",
+                "objection9": "Objection 9\n          - Response to 12-5 Objection (Supporting Document)\n          Comments: RE: Supplemental Exhibit 3O\nPlease provide underlying support for the following:\nULAE (21.2%)\nCW Projected 5yr LR (82.5%)\nME P&C 8.4%\nCredibility (0.36)"
+            },
+            "Objection_letter4": {
+                "objection_letter_date": "12/05/2024",
+                "objection1": "Objection 1\n          - Explanatory Memorandum (Supporting Document)\n          Comments: RE: Exhibit 1G, Loss Trends and Selections\nCountrywide excl. CA, FL, TX data is used as the complement of credibility\nPlease provide the Countrywide fits as well as the credibility used in the Credibility Weighted Trend calculation.",
+                "objection2": "Objection 2\n          - Explanatory Memorandum (Supporting Document)\n          Comments: RE: Exhibit 1H, Policies in Force Trends and Selections\nCountrywide excl. CA, FL, TX data is used as the complement of credibility.\nPlease provide the Countrywide fits as well as the credibility used in the Credibility Weighted Trend calculation.",
+                "objection3": "Objection 3\n          - Explanatory Memorandum (Supporting Document)\n          Comments: RE: Exhibit 1J, Provisions\nPlease provide underlying support for Non-Hurricane Catastrophe Provision of 0.1462 and Projected AIY per EP of 0.4471, and (2)\nLAE Factor of 10%.\nPlease also provide the model versions and inputs.",
+                "objection4": "Objection 4\n          - Explanatory Memorandum (Supporting Document)\n          Comments: RE: Exhibit 1B\nCol (2) is derived by comparing incurred claim counts to a credibility standard using classical credibility\nPlease provide the credibility standard and underlying support.",
+                "objection5": "Objection 5\n          - Explanatory Memorandum (Supporting Document)\n          Comments: RE: Exhibit 1J, Provisions\nPlease provide how the Total Provision per EP of 12.4% was calculated.",
+                "objection6": "Objection 6\n          - Explanatory Memorandum (Supporting Document)\n          Comments: RE: Exhibit 2B, Maine Renters State Level Indicated Change\nPlease provide underlying support for ME and CW Credibility-Weighted Current Level Non-Cat Loss Ratios, Cat Provision as a % of\nCLEP, and Fixed and Variable expenses.",
+                "objection7": "Objection 7\n          - Explanatory Memorandum (Supporting Document)\nSERFF Tracking #: SFMA-134246231\nState Tracking #:\nCompany Tracking #: HO-47216\nState:\nMaine\nFiling Company:\nState Farm Fire and Casualty Company\nTOI/Sub-TOI:\n04.0 Homeowners/04.0000 Homeowners Sub-TOI Combinations\nProduct Name:\nHO-47216\nProject Name/Number: HO-47216/HO-47216\nPDF Pipeline for SERFF Tracking Number SFMA-134246231 Generated 02/05/2025 01:59 AM\n\n          Comments: RE: Exhibit 3B, Maine Condominium Unitowners State Level Indicated Change\nPlease provide underlying support for ME and CW Credibility-Weighted Current Level Non-Cat Loss Ratios, Cat Provision as a % of\nCLEP, and Fixed and Variable expenses.",
+                "objection8": "Objection 8\n          - Explanatory Memorandum (Supporting Document)\n          Comments: RE: Exhibit 1M\nPlease provide the version of each model used.",
+                "objection9": "Objection 9\n          - Response to 10-29 Objection (Supporting Document)\n          Comments: RE: GLM Exhibit 2\nLoyalty or Tenure | r_yrs_sf | Consecutive years that a policy has been with State Farm | Numeric | Predictor\nAre customers being charged different rates based on predicted tenure? Maine does not allow predicted tenure in rating.",
+                "objection10": "Objection 10\n          - Response to 10-29 Objection (Supporting Document)\n          Comments: RE: GLM Exhibit 2\nCustomer Rating Index | o_cri_fctr | Customer Rating Index model factor | Numeric | Control/Offset\nPlease explain this further. How is this calculated?",
+                "objection11": "Objection 11\n          Comments: RE: Confidential GLM Exhibits 7A-7J\nPlease explain the ME Weighted Guideline Factors. Please provide the complements and weights.",
+                "objection12": "Objection 12\n          - Response to 10-29 Objection (Supporting Document)\n          Comments: What variables have been included in the model that are not explicitly part of the rating system on file with the\nDepartment?"
+            },
+            "Objection_letter5": {
+                "objection_letter_date": "10/29/2024",
+                "objection1": "Objection 1\n          Comments: RE: Rate/Rule Schedule\nPlease provide a walk through example of a policyholder receiving a 44.8% increase as a result of this filing. Please do the same for\nthe 33.6% decrease.",
+                "objection2": "Objection 2\n          - Explanatory Memorandum (Supporting Document)\n          Comments: Please provide the indication and supporting exhibits in excel with working formulas in addition to the provided pdf.",
+                "objection3": "Objection 3\n          - Explanatory Memorandum (Supporting Document)\n          Comments: Please provide a histogram by percentage amounts and by dollar amounts for this rate change.",
+                "objection4": "Objection 4\n          - Explanatory Memorandum (Supporting Document)\n          Comments: primarily on a generalized linear model fit:\nADDITIONAL INFORMATION REQUIRED FOR REVIEW OF GLMs\n1)Data used in the creation and testing of the model\na)Document the sources of data, both internal and external.\nb)Document the scope of the data (years, companies, geographies, etc.).\nc)If countrywide data was used, provide the percentage distribution of states in the dataset.\nd)Document the process for reviewing the appropriateness and accuracy of the data.\ne)Identify any material limitations or defects found or believed to exist in the data.\nf)What, if any, data was excluded and how does that impact the results?\ng)Describe any limitations of the analysis resulting from the issues or concerns with the data.\nh)Describe any adjustments made to the raw data (trend, development, exclusion of cats, etc.).\ni)What percent of the data was used for training versus testing (hold-out)?\nj)If this is an update of a model previously approved, describe material changes in data.\n2)Variables used and Adjustments Made\na)List all variables used in the model with a common language description of each as well as their sources.\nb)Document whether the variables are continuous, discrete, or categorical.\nc)Explain any transformations that were made to the variables (natural log, binning, etc.).\nd)Describe any offsets, weights, or other variables used in the model.\ne)Does the model target pure premium or frequency and severity separately?  Why?\nSERFF Tracking #: SFMA-134246231\nState Tracking #:\nCompany Tracking #: HO-47216\nState:\nMaine\nFiling Company:\nState Farm Fire and Casualty Company\nTOI/Sub-TOI:\n04.0 Homeowners/04.0000 Homeowners Sub-TOI Combinations\nProduct Name:\nHO-47216\nProject Name/Number: HO-47216/HO-47216\nPDF Pipeline for SERFF Tracking Number SFMA-134246231 Generated 02/05/2025 01:59 AM\n\nf)If this is an update of a model previously approved, describe material changes in above.\n3)Assumptions and Model Validation\na)Document the distributions, parameters, and link functions chosen in the model.\nb)Describe tests for and adjustments made for correlation, multicollinearity, or aliasing.\nc)Provide the model coefficients, p-values, and confidence intervals.\nd)Document any credibility procedures used in connection with the model.\ne)Describe the methods used to validate the assumptions and assess the goodness of fit.\nf)Describe actions taken to assess model stability such as bootstrapping or cross-validation.\ng)Provide lift charts, Gini-index scores, loss ratio charts, and other statistics analyzed by the company during the modeling process.\nh)If this is an update of a model previously approved, provide a double-lift chart.\n4)Model Output\na)Document the relativities indicated by the model.\nb)Document any deviation of the rating plan from the indicated relativities and justify the deviation.\n5)Regulatory Compliance\na)Is this model being implemented countrywide?  If so, in what states has it been filed and/or approved?  Separate the lists into prior\napproval states versus all other.",
+                "objection5": "Objection 5\n          - Explanatory Memorandum (Supporting Document)\n          Comments: K. Year Built Adjustment and Wind Mitigation Discount Plan\nPlease provide details on the revised adjustments based on model result for each of these models."
+            }
+        },
+        "group_code": 176,
+        "company_codes": [
+            25143
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "NJ_TRVD-134175714": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/31/2025",
+                "objection1": "For the review of the referenced filing we will require answers to the following questions/concerns:\n     Objection 1\n          - Exhibit C (Supporting Document)\n          Comments: Similar to the versions of Exhibit C previously submitted under this filing, the Grand Total proposed dollar effect on\nExhibit C should equal the sum of the Total Owners, Total Tenant/Condo, and Total Landlord proposed dollar effects, which is\n$34,611,800 based on the 1/27/2025 Exhibit C. Please note this represents a 19.7% overall impact based on the $175, 401,093\ncurrent written premium as shown on the same Exhibit C.\nPlease confirm if the overall impact is 19.7% or 19.8% and submit an updated Exhibit C that reflects a Grand Total proposed dollar\neffect that equals the sum of the Total Owners, Total Tenant/Condo, and Total Landlord proposed dollar effects. Also, please submit\na Post Submission Update to revise the SERFF Rate/Rule schedule if any information changes."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "01/15/2025",
+                "objection1": "Objection 1\n          Comments: As referenced in objection #5 of the 10/11/2024 objection letter, the information on Exhibit B (Exhibit 1 page 1)\nshould be consistent with the information shown on the SERFF Rate/Rule Schedule. Please note the Post Submission Update\nsubmitted on 1/6/2025 shows a Written Premium Change of $34,729,416 while the revised Exhibit B shows $34,590,941.\nAdditionally, the overall proposed dollar effect on Exhibit B reflects a +19.7% change when compared to the Current Written Premium\non Exhibit B rather than +19.8%.\nPlease either submit a Post Submission Update to amend the Written Premium Change on the SERFF Rate/Rule Schedule or revise\nthe proposed dollar effects on Exhibit B. Also, the proposed dollar effect should be consistent with the overall \"proposed % change\"\ngiven the \"current written premium\" shown on Exhibit C.",
+                "objection2": "Objection 2\n          Comments: Exhibit B (Exhibit 1 page 1) shows a -0.1% change for Tenants with a dollar impact of -$4,291. Additionally, while\nthere are 17,812 Tenant policies on Exhibit B, Exhibit 1 page 2 shows 17,644 policies with a 0.0% change, which would indicate at\nleast 168 Tenant policies are receiving a change. However, based on the updated Exhibit 18, there doesn't appear to be any changes\nto the Tenant rates. As such, please explain why Exhibit B shows a percentage change and dollar impact for Tenants and why the\n0.0% on the Unstabilized Impact - Histogram doesn't equal the number of Tenant policies on Exhibit B. What rates are changing with\nregard to Tenants that would lead to the decrease?",
+                "objection3": "Objection 3\n          Comments: Please advise as to when you expect the final printed manual pages to be completed."
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "12/16/2024",
+                "objection1": "For the review of the referenced filing we will require answers to the following questions/concerns:\n     Objection 1\n          Comments: Please revise the proposal as discussed with the Department. The response should include updates to all\nimpacted exhibits and manual pages, including Exhibits 1 (Histogram) & Exhibit C, as well as a related post submission update to\nrevise the Company Rate Information and to update effective dates."
+            },
+            "Objection_letter4": {
+                "objection_letter_date": "12/05/2024",
+                "objection1": "For the review of the referenced filing we will require answers to the following questions/concerns:\n     Objection 1\n          Comments: As previously stated in objection #3 of the 10/11/2024 objection letter, the Department will permit a cap up to 25%\nto be applied for four annual policy periods. As such, we would like you to be aware that the Rate Stabilization rule can be revised\nunder this filing to 25% as this can help address the company's rate need. If you decide not to update the cap, then please explain\nwhy you are choosing to continue using a lower cap than what the Department will permit."
+            },
+            "Objection_letter5": {
+                "objection_letter_date": "10/11/2024",
+                "objection1": "Objection 1\n          Comments: Please provide the maximum and minimum uncapped combined rate impact for this filing and the previous rate\nfiling approved under SERFF Tracking # TRVD-133948416 (Dept. File #24-0050) as the renewal effective dates for the two filings are\nwithin a 12-month period.",
+                "objection2": "Objection 2\n          Comments: Exhibit 1, pages 2 and 3 are both titled \"Unstabilized Impact - Histogram\". Please explain the difference between\nthe exhibits. Should Exhibit 1, page 3 have been titled \"Stabilized Impact - Histogram\"?",
+                "objection3": "Objection 3\n          Comments: As the maximum rate impact for an individual insured exceeds 25%, a cap not to exceed 25% should be applied\nper annual policy period in order to limit the sizable rate increases policyholders may see upon renewal as a result of this filing.\nPlease note the cap should apply for four annual policy periods and policyholders must achieve the manually rated premium charge\nwithin five years.\nPlease explain how capping will be applied and what, if any, capping rules are currently in effect.",
+                "objection4": "Objection 4\n          Comments: Related to the previous objection, the Department notes a Rate Stabilization rule was approved under Dept. File\n#20-2624 and included a Rate Stabilization Table that reflected a 15% cap for 4 years. Is this rule and Rate Stabilization Table still\napplicable? Were either the rule or table withdrawn under a prior filing? Please note under Dept. File #21-2189, the company\nresponded to our request for capping by stating that \"all policyholders affected by this rate change will not have an increase of more\nthan 20% annually\". Given the reference to the 20% cap for Dept. File #21-2189, was a new Rate Stabilization Table submitted?\nPlease explain.",
+                "objection5": "Objection 5\n          Comments: While the current written premium as shown on Exhibit C is consistent with the SERFF Rate/Rule Schedule, the\nWritten Premium Change on the SERFF schedule is not consistent with the proposed dollar effect shown on Exhibit C. As these\nshould be the same, please explain why they are different or submit a Post Submission Update to update the Company Rate\nInformation in SERFF so the premium change is consistent with Exhibit C."
+            },
+            "Objection_letter6": {
+                "objection_letter_date": "07/26/2024",
+                "objection1": "Please explain specifically what is driving the indicated rate need (e.g. type/category of losses, geographic locations, large\nlosses, specific agencies or distribution channels, particular years/periods/events, etc.).  Provide cause of loss distributions or other\nexhibits demonstrating any changes where appropriate.",
+                "objection2": "Please describe the rationale for the proposed rate filing amount as it relates to the indicated need, as well as the strategic\nobjective(s) with the overall filing (the % increase, other revisions, etc.).",
+                "objection3": "Please provide a discussion of the general type of risk profiles that will receive the larger and smaller premium changes as a\nresult of this filing focusing particularly on the characteristics that are causing the premium changes.  Please do not provide a\ndescription of only the individual policies that will receive the maximum and minimum premium change.  Instead provide a description\nof the general characteristics of the group of policies that will receive the larger and smaller premium changes as well as the basis for\ntargeting such risk types for the related rate changes.",
+                "objection4": "Please summarize other actions being taken by the company, in addition to rate revision filings, to address overall profitability and\ngrowth plans, if/as applicable.",
+                "objection5": "Please identify and explain any material increase/decrease in the inforce policy count/exposures over the past several years,\nidentifying the underlying reason(s) and if the directional shift (growing, retracting) is in line with the company objectives in the New\nJersey market.",
+                "objection6": "Please define the overall company strategy with writing business in New Jersey as well as what differentiates your product from\nother competitors in the marketplace such as niche/specialty markets, geographic focus (urban, coastal, etc.), enhanced coverages,\npreferred/standard/non-standard-type business, multi-line offerings, etc."
+            },
+            "Objection_letter7": {
+                "objection_letter_date": "07/25/2024",
+                "objection1": "Objection 1\n          Comments: The prior filing increased rates +6.7% based on an indication of +26.0%. This leaves a residual indication of\n+18.1%. Please reconcile this residual indication with the current indication for this filing of +41.1%.",
+                "objection2": "Objection 2\n          Comments: Why is Dwelling experience split between non-weather and non-catastrophe-weather, but Landlord Dwelling isn't?",
+                "objection3": "Objection 3\n          Comments: Please update ULAE data to include data through year-end 2023.",
+                "objection4": "Objection 4\n          Comments: Please provide Exhibit 14 page 1 of 6 by form. Please confirm our understanding that this data is state-specific\ndata for St. Paul Protective Insurance Company only (rather than Group data).",
+                "objection5": "Objection 5\n          Comments: Regarding Profit & Contingencies,\n(1) Please provide updated information that reflects 2023 data.\n(2) How did you consider the current increased interest rate environment? Please refer to Actuarial Standard of Practice No. 30\nTreatment of Profit and Contingency Provisions and the Cost of Capital in Property/Casualty Insurance Ratemaking. Section 3.3\nstates \"Since all components of a rate should be estimates of future costs relating to the risk transfer during the prospective period of\ntime to which the rate applies, capital costs, investment income, income taxes, cash flows, and leverage factors used in calculating\nthe profit provision should be based on expected future values.\""
+            }
+        },
+        "group_code": 3548,
+        "company_codes": [
+            19224
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "NM_SFMA-134394212": {
+        "objections": {},
+        "group_code": 176,
+        "company_codes": [
+            25143
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "NY_TRVD-134134854": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "12/16/2024",
+                "objection212": "480-5511\nmarielle.klempner@dfs.ny.gov"
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "10/30/2024",
+                "objection1": "Please amend the RT-2 exhibit so that it includes a step-by-step numerical derivation of the overall rate effect.",
+                "objection2": "Regarding filing R2017001306 please provide the page or the location in the filing that the two years of Weather and Non-Weather\nexperience combined was submitted for review. In addition, in filing R2021000244 please provide the page or the location in the filing\nthat the five years of Weather and Non-Weather experience combined was submitted for review.\nKindly provide notification by e-mail at marielle.klempner@dfs.ny.gov when you have responded to an objection letter or sent a Note\nto Reviewer via SERFF. This will help expedite review of this filing. This e-mail address should not be used for any correspondence\nother than for notification that the company has sent correspondence through SERFF.\nWe await your prompt reply. In the meantime, the captioned filing is not approved in New York. A substantive reply must be provided\nby the company within 7 days of the date of this letter. If such response is not received, the file will be considered withdrawn and\nclosed accordingly without further communication. Should the company wish this Department to again review the subject matter of\nthis filing, a new submission, in accordance with the provisions of Department Circular Letter No. 5 (2009) and SERFF filing\nsubmission guidelines, addressing the issue(s) discussed above and/or included in any previous Objection Letter(s) and/or Note(s)\nTo Filer, must be made.\nVery truly yours,\nMarielle Klempner\nSenior Insurance Examiner\nProperty Bureau",
+                "objection212": "480-5511\nmarielle.klempner@dfs.ny.gov"
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "10/15/2024",
+                "objection1": "Please explain, in detail, if the allocation methodology for reinsurance has changed since the last rate revision that has been\nacknowledged for the captioned coverage.",
+                "objection2": "Kindly provide the Department file number under which the methodology was originally acknowledged.",
+                "objection3": "Kindly provide the territory definitions.",
+                "objection4": "Please provide the overall rate effect for the following territories, if applicable:\n(a)Albany\n(b)Bronx\n(c)Buffalo\n(d)Kings\n(e)Nassau\n(f)New York\n(g)Queens\n(h)Richmond\n(i)Suffolk\n(j)Syracuse.",
+                "objection5": "Please inform us if the company writes in the coastal market. If so, please specify the distance to shore. What are your policy\nwriting projections in these areas for at least the next two years?",
+                "objection6": "In exhibit RT-1, please include the current rate in the side-by-side comparison.",
+                "objection7": "It has been noted that you are now using seven years of Weather and two years of non-weather loss experience for Dwelling.\nPreviously you used five years of Weather and Non-Weather combined. Kindly provide the Department File number in which the five\nyears of Weather and Non-Weather combined was introduced.\nKindly provide notification by e-mail at marielle.klempner@dfs.ny.gov when you have responded to an objection letter or sent a Note\nto Reviewer via SERFF. This will help expedite review of this filing. This e-mail address should not be used for any correspondence\nother than for notification that the company has sent correspondence through SERFF.\nWe await your prompt reply. In the meantime, the captioned filing is not approved in New York. A substantive reply must be provided\nby the company within 15 days of the date of this letter. If such response is not received, the file will be considered withdrawn and\nclosed accordingly without further communication. Should the company wish this Department to again review the subject matter of\nthis filing, a new submission, in accordance with the provisions of Department Circular Letter No. 5 (2009) and SERFF filing\nsubmission guidelines, addressing the issue(s) discussed above and/or included in any previous Objection Letter(s) and/or Note(s)\nTo Filer, must be made.\nSERFF Tracking #: TRVD-134134854\nState Tracking #: R2024001756\nCompany Tracking #: 2024-05-0152\nState:\nNew York\nFirst Filing Company:\nThe Travelers Home and Marine Insurance\nCompany , ...\nTOI/Sub-TOI:",
+                "objection04": "0 Homeowners/04.0000 Homeowners Sub-TOI Combinations\nProduct Name:\nEnhanced Homeowners & High Value Homeowners\nProject Name/Number: 69875/2024-05-0152\nPDF Pipeline for SERFF Tracking Number TRVD-134134854 Generated 02/06/2025 12:18 AM\n\nVery truly yours,\nMarielle Klempner\nSenior Insurance Examiner\nProperty Bureau",
+                "objection212": "480-5511\nmarielle.klempner@dfs.ny.gov"
+            }
+        },
+        "group_code": 3548,
+        "company_codes": [
+            27998,
+            36137
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "NY_TRVD-G134200859": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "11/01/2024",
+                "objection1": "We have the following comments:\n     Objection 1\n          Comments: (a) Exhibit RT-4: Notwithstanding the submission of information for the referenced exhibit, it does not appear that\nall information as required by the Rate Filing Sequence Checklist Detailed Instructions was provided.  Please refer to such\ninstructions for guidance.\n(b) Please explain, in detail, if the allocation methodology for reinsurance has changed since the last rate revision that has been\nacknowledged for the captioned coverage. In addition, please provide the Department file number under which the methodology was\noriginally acknowledged.\n(c) Please submit the overall rate change by territory for the following: NYC, Kings, Bronx, Queens, Richmond, Nassau, Suffolk,\nAlbany, Buffalo, and Syracuse."
+            }
+        },
+        "group_code": 3548,
+        "company_codes": [
+            38130
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "NY_TRVD-G134285102": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/22/2025",
+                "objection1": "We have the following comments:\n     Objection 1\n          - Rates and/or Rating Plans (Supporting Document)\n          Comments: (a) Notwithstanding the change made to the Rate Filing Sequence Checklist, please note it should be revised to\nreflect the CMP exhibits submitted in support of the proposed rating factor."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "12/10/2024",
+                "objection1": "We have the following comments:\n     Objection 1\n          - Rates and/or Rating Plans (Supporting Document)\n          Comments: (a) Regarding the proposed credit of 3%, detailed, comprehensive support must be submitted and reflected on the\nappropriate exhibits pursuant to the instructions for the Rate Filing Sequence Checklist. Nothing has been provided except the brief\nreference to it. Please be advised that in accordance with the requirements of Article 23 of the New York Insurance Law (NYIL),\nadequate statistical and/or judgmental support must be submitted for all rate filings. Kindly provide the supporting documents and/or\napplicable exhibits of Rate Filing Sequence Checklist (RFSC).Please refer to our website for complete filing information at\nhttp://www.ins.state.ny.us/ipchklst.htm.\n(b) Please amend the Rate Filing Sequence Checklist to reflect the exhibits provided in support of the proposed credit."
+            }
+        },
+        "group_code": 3548,
+        "company_codes": [
+            28188,
+            19062,
+            25615,
+            41483,
+            19038,
+            25666,
+            36161,
+            19070
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "SC_ALSE-134216247": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "11/27/2024",
+                "objection1": "The Company states that \"The purpose of the Claim Adjustment Fee is to cover Allstate’s loss adjustment expense associated with\ncovered events.\" Please explain how this does not overlap to the lae adjustment applied for modeled losses.",
+                "objection2": "Please provide 20-30 years of CAT losses for the Company. If the Company has not written for that length of time, please provide\nthe group data instead."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "10/18/2024",
+                "objection1": "While the Department understands the increase in weather losses over the past ten yeah and that it is reasonable to historically\ntrend weather losses, there is concerns over applying prospective weather trending, Additionally the Company applies a 7% non\nweather loss trend  historically and prospectively which the Department sees as excessive since the ten year loss ratio for non-\nweather in the TRD exhibit is 1.4%. Please provide the Department with an alternate indication exhibit that does not trend weather\nlosses prospectively, and uses a 1.4% historical loss trend for non-weather so that the Department may see how sensitive the\nindication is to changes in these factors. Since this is merely another frame of reference from which to view the filing, the Company is\nfree to comment on why it does not believe this would be appropriate to use or any other such caveats when providing the requested\nalternate indication,"
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "09/24/2024",
+                "objection1": "The Company's underwriting results have been consistently highly favorable in the state even net of reinsurance, which does not\nappear to support the the proposed rate increase. Please defend."
+            },
+            "Objection_letter4": {
+                "objection_letter_date": "08/29/2024",
+                "objection1": "While there is an indication for the overall change, the support needs to be as granular as the changes themselves. Thus the\nCompany must demonstrate the 13.4% increase in variable package is supported on its own.",
+                "objection2": "Please provide an example calculation to demonstrate how an insured is receiving a 4.7% overall impact."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            19240
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "SC_ALSE-134216877": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "11/27/2024",
+                "objection1": "The Company states that \"The purpose of the Claim Adjustment Fee is to cover Allstate’s loss adjustment expense associated with\ncovered events.\" Please explain how this does not overlap to the lae adjustment applied for modeled losses.",
+                "objection2": "Please provide 20-30 years of CAT losses for the Company. If the Company has not written for that length of time, please provide\nthe group data instead."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "10/18/2024",
+                "objection1": "While the Department understands the increase in weather losses over the past ten yeah and that it is reasonable to historically\ntrend weather losses, there is concerns over applying prospective weather trending, Additionally the Company applies a 11% non\nweather loss trend  historically and prospectively which the Department sees as excessive since the ten year loss ratio for non-\nweather in the TRD exhibit is 0.6 %. Please provide the Department with an alternate indication exhibit that does not trend weather\nlosses prospectively, and uses a 0.6% historical loss trend for non-weather so that the Department may see how sensitive the\nindication is to changes in these factors. Since this is merely another frame of reference from which to view the filing, the Company is\nfree to comment on why it does not believe this would be appropriate to use or any other such caveats when providing the requested\nalternate indication,"
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "09/24/2024",
+                "objection1": "The Company's underwriting results have been consistently highly favorable in the state even net of reinsurance, which does not\nappear to support the the proposed rate increase. Please defend."
+            },
+            "Objection_letter4": {
+                "objection_letter_date": "08/29/2024",
+                "objection1": "While there is an indication for the overall change, the support needs to be as granular as the changes themselves. Thus the\nCompany must demonstrate the 21.3% increase in variable package and 19.6% increase in additional coverages are supported on\ntheir own.",
+                "objection2": "Please provide an example calculation to demonstrate how an insured is receiving a 7.8% overall impact."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            19240
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "SD_AMSI-134200073": {
+        "objections": {},
+        "group_code": 155,
+        "company_codes": [
+            10872
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "SD_SFMA-134399451": {
+        "objections": {},
+        "group_code": 176,
+        "company_codes": [
+            25143
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "TN_GMMX-134298146": {
+        "objections": {
+            "Objection_letter1": {
+                "objection_letter_date": "01/23/2025",
+                "objection1": "The following issues must be addressed before we can proceed:\n     Objection 1\n          Comments: TCA §56-5-107(f) requires the reimbursement of the cost of actuarial review for applicable rate filings. Please remit\nthe amount of $3,701.25 via SERFF or by check. If paying by check please include the attached invoice with the check, payment\ninformation is located on the invoice. An acknowledgement of the payment will be sufficient for us to close the filing if you wish to by\ncheck."
+            },
+            "Objection_letter2": {
+                "objection_letter_date": "01/09/2025",
+                "objection1": "The following issues must be addressed before we can proceed:\n     Objection 1\n          - Rate Pages, null (Rate)\n          Comments: Please provide the intent and basis of support for the Welcome Discount factors shown in the rate manual pages."
+            },
+            "Objection_letter3": {
+                "objection_letter_date": "12/05/2024",
+                "objection1": "The following issues must be addressed before we can proceed:\n     Objection 1\n          - Response to objection dated 11-13-2024 (Supporting Document)\n          Comments: Within the \"Implied Indication Analysis\" document step (6),\na. Please clarify the reason for referencing the ALSE-133895699 filing for a net trend assumption instead of the otherwise referenced\nALSE-134149814.\nb. Describe how net trends compare between filing ALSE-134149814 and filing ALSE-133895699."
+            },
+            "Objection_letter4": {
+                "objection_letter_date": "11/13/2024",
+                "objection1": "Objection 1\n          - Rate Pages, null (Rate)\n          - Filing Description and Cover Letter (Supporting Document)\n          - Third Party Authorization (Supporting Document)\n          - Rate Justification for Personal Lines (Supporting Document)\n          - Filing Fees For Property and Casualty (Supporting Document)\n          - Expedited Filing Method for Personal Lines (Supporting Document)\n          - Investment Income (Supporting Document)\n          - Rate Requests (Supporting Document)\n          - Rate/Rule Filing Checklist (Supporting Document)\n          Comments: Please identify what the components 1-12 represent in the manual.",
+                "objection2": "Objection 2\n          Comments: Please provide the Companys own experience since the program has been rolled out.\nDiscuss the reason for not using a credibility weighting type of procedure.",
+                "objection3": "Objection 3\n          - Filing Description and Cover Letter (Supporting Document)\n          Comments: Discuss the reason for considering Liberty Mutual, Auto-Owners Insurance, Progressive etc as appropriate\ncompetitors to Encompass. Our understanding is only Allstate was considered historically for this purpose.",
+                "objection4": "Objection 4\n          - Rate Pages, null (Rate)\n          - Filing Description and Cover Letter (Supporting Document)\n          Comments: Referring to Home Rate Pages, Page 19, please provide the calculations for fixed expense premium of $237, $182\nand $78 for form HNP5, HO3 and HO6 respectively."
+            }
+        },
+        "group_code": 8,
+        "company_codes": [
+            10358
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "UT_SFMA-134384912": {
+        "objections": {},
+        "group_code": 176,
+        "company_codes": [
+            25143
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "WI_LBPM-134395049": {
+        "objections": {},
+        "group_code": 111,
+        "company_codes": [
+            39012
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "WV_GMMX-134399061": {
+        "objections": {},
+        "group_code": 8,
+        "company_codes": [
+            10358
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "WV_LBPM-134392132": {
+        "objections": {},
+        "group_code": 111,
+        "company_codes": [
+            24740
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    },
+    "WV_LBPM-134392135": {
+        "objections": {},
+        "group_code": 111,
+        "company_codes": [
+            19690
+        ],
+        "download_week": "2025-02-10T00:00:00"
+    }
+}
